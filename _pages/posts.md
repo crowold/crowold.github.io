@@ -9,6 +9,8 @@ author_profile: true
 
 Coming soon!
 
+<a src="images/staytuned.gif"></a>
+
 <!--- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
