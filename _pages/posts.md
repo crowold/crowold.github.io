@@ -7,7 +7,9 @@ author_profile: true
   #og_image: "posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 ---
 
-{% include base_path %}
+Coming soon!
+
+<!--- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -17,3 +19,4 @@ author_profile: true
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+--->
