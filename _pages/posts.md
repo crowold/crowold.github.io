@@ -9,10 +9,10 @@ author_profile: true
 
 Coming soon!
 
-<!---<img src="images/staytuned.gif"></img>--->
-<img src="{{ "/images/staytuned.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+<img src="{{ "/images/staytuned.gif" | prepend: site.baseurl | prepend: site.url}}" alt="coming soon" />
 
-<!--- {% include base_path %}
+<!--- 
+{% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
