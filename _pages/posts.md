@@ -9,7 +9,8 @@ author_profile: true
 
 Coming soon!
 
-<img src="images/staytuned.gif"></img>
+<!---<img src="images/staytuned.gif"></img>--->
+<img src="{{ "images/staytuned.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 
 <!--- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
