@@ -9,7 +9,7 @@ author_profile: true
 
 Coming soon!
 
-<a src="images/staytuned.gif"></a>
+<img src="images/staytuned.gif"></img>
 
 <!--- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
