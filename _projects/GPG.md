@@ -1,11 +1,7 @@
 ---
 title: 'Gender Pension Gap'
 date: 2012-08-14
-permalink: /posts/GenderPensionGap/
-tags:
-  - cool posts
-  - category1
-  - category2
+permalink: /projects/GenderPensionGap/
 ---
 
 In my dissertation I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives. Suggesting a new methodological approach and analyse the interrelation of welfare state policies over the life course with pension policies in place later in life. 
