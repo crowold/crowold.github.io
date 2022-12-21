@@ -1,5 +1,5 @@
 ---
-title: "Gender Pension Gap"
+title: "Gender Pension Gaps"
 layout: single-portfolio
 permalink: /projects/genderpensiongap/
 collection: projects
