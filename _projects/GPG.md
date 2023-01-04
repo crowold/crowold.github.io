@@ -4,7 +4,7 @@ layout: single-portfolio
 permalink: /projects/genderpensiongap/
 collection: projects
 order_number: 10
-excerpt: "I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives."
+excerpt: "I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives. <img src='/files/figure1_ward8_mds.png' alt=''>"
 header: 
   og_image: "files/figure1_ward8_mds.png"
 ---
