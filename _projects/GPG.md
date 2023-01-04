@@ -4,12 +4,15 @@ layout: single-portfolio
 permalink: /projects/genderpensiongap/
 collection: projects
 order_number: 10
-excerpt: "I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives. <img src='/files/figure1_ward8_mds.png' alt=''>"
+excerpt: "Through which mechanisms are Gender Pension Gaps related to work-family life course patterns or specific aspects of work and family lives?
+ <img src='/files/figure1_ward8_mds.png' alt=''>"
 header: 
   og_image: "files/figure1_ward8_mds.png"
 ---
 
-In my dissertation I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives. In the first paper we suggest a new methodological approach to decompose group inequalities based on life course patterns. Applied to Gender Pension Gaps this allows to analyse the interrelation of welfare state policies over the life course with pension policies in place later in life. 
+In my dissertation I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives. I aim to discover and apply life course and gender sensitive approaches that have not been used before to study gender differences in pension income and reveal mechanisms that might have been concealed in previous analytical approaches.
+
+In the first paper we suggest a new methodological approach to decompose group inequalities based on life course patterns. Applied to Gender Pension Gaps this allows to analyse the interrelation of welfare state policies over the life course with pension policies in place later in life. 
 In the second paper I apply this method to rich data in Germany linking survey to administrative data which allows to decompose the Gender Pension Gap additional to employment states based on earnings of the life course. Differentiating between public and private pension income, the study reveals to what extent the mechanisms differ for shaping gender inequalities within the different pension types. 
 In the third paper, I ask which specific aspects of work and family life courses play a role for pension income inequality. Machine Learning tools reveal the most important predicators for pension income inequality. As second step, I decompose the Gender Pension Gaps based on these aspects.
 
