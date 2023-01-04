@@ -5,6 +5,8 @@ permalink: /projects/genderpensiongap/
 collection: projects
 order_number: 10
 excerpt: "I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives."
+header: 
+  og_image: "files/figure1_ward8_mds.png"
 ---
 
 In my dissertation I explore through which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives. In the first paper we suggest a new methodological approach to decompose group inequalities based on life course patterns. Applied to Gender Pension Gaps this allows to analyse the interrelation of welfare state policies over the life course with pension policies in place later in life. 
@@ -16,6 +18,7 @@ Under review
 ======
 ------
 **Life-course-sensitive analysis of group inequalities in old age: Combining sequence analysis with the Kitagawa-Oaxaca-Blinder decomposition**
+
 <i>With Emanuela Struffolino & Anette Fasang<i>
 > This paper improves the understanding of how prior life-courses that unfold over several decades relate to inequalities between groups in old age. We propose a step wise process combining the strengths of Multichannel Sequence Analysis to analyse life-courses with the Kitagawa-Oaxaca-Blinder decomposition, which has long been established to analyse group inequalities in outcomes. The combination of both methods allows to reveal i) which part of group-specific gaps in outcomes are due to group-specific life course patterns and ii) which part is due to group-specific returns for the same life course patterns. To illustrate the proposed procedure, we apply it to the case of Gender Pension Gaps in Italy and West Germany. 
 
