@@ -1,9 +1,9 @@
 ---
 title: "Wealth inequalities"
 layout: single-portfolio
-permalink: /projects/genderpensiongap/
+permalink: /projects/wealthinequalities/
 collection: projects
-order_number: 10
+order_number: 11
 excerpt: <i>With Nicole Kapelle<i>
 
 "Exploring relevant life course aspects for wealth inequalities in old-age
