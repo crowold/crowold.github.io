@@ -9,6 +9,7 @@ excerpt: "<i>With Nicole Kapelle:<i>
 
 Exploring relevant life course aspects for wealth inequalities in old-age
 
+
  <img src='/files/boruta_nolabs.png' alt=''>"
 header: 
   og_image: "files/boruta_nolabs.png"
