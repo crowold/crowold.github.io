@@ -3,7 +3,7 @@ title: "Wealth inequalities"
 layout: single-portfolio
 permalink: /projects/wealthinequalities/
 collection: projects
-order_number: 11
+order_number: 12
 excerpt: "<i>With Nicole Kapelle:<i> 
 
 
