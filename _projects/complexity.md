@@ -4,7 +4,7 @@ layout: single-portfolio
 permalink: /projects/familycomplexity/
 collection: projects
 order_number: 11
-excerpt: "<i>Zachary Van Winkle:<i> 
+excerpt: "<i>With Zachary Van Winkle:<i> 
 
 
 Revealing the consequences of children’s family complexity over their childhood
