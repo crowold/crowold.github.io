@@ -7,9 +7,9 @@ author_profile: true
   #og_image: "posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 ---
 
-Coming soon!
+<!--- Coming soon!
 
-<img src="{{ "/images/staytuned.gif" | prepend: site.baseurl | prepend: site.url}}" alt="coming soon" />
+<img src="{{ "/images/staytuned.gif" | prepend: site.baseurl | prepend: site.url}}" alt="coming soon" /> --->
 
  
 {% include base_path %}
