@@ -11,7 +11,7 @@ Coming soon!
 
 <img src="{{ "/images/staytuned.gif" | prepend: site.baseurl | prepend: site.url}}" alt="coming soon" />
 
-<!--- 
+ 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -22,4 +22,3 @@ Coming soon!
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
---->
