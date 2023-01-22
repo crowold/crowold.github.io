@@ -9,6 +9,7 @@ tags:
   - SHARE
   - JobEpisodesPanel
   - goodtoknow
+  - replication
 ---
 
 <br />
@@ -26,4 +27,7 @@ When focussing on all person-year-spells the gender gaps become narrower (figure
 
 <img src="/files/2023-01-25-blogpost_jep/1missing-before-impu_genderXcountry_2r_rel_age16.png" style="display: block; margin: auto;" />
 
+ <font size="1"> Own calculations based on whole sample of JEP release 7.1.0.6</font>
+
+ 
 
