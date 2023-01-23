@@ -1,7 +1,7 @@
 ---
 title: 'Missing data in the SHARE Job Episodes Panel: A potential cause and solution
 
-<img src="/files/2023-01-25-blogpost_jep/3_1_distribution_imputation-situation_gender.png" style="display: block; margin: auto;" />
+<img src="/files/hmm-there-is.jpg" style="display: block; margin: auto;" />
 '
 date: 2023-01-25
 permalink: /posts/2023/01/blogpost_jep/
@@ -39,7 +39,8 @@ The Job Episodes Panel (up until release 8.0.0) does not consider variables of t
 
 I impute only person-year-spells that are missing on the *situation* variable and that occur in the years after the last reported job (re035). Spells with missing information are filled for each year until the first year with non-missing information on the *situation* variable or until the situation changed again (re039a). If the situation changed, the same procedure is done for the nth situation after the last job nth times. The year in which the situation after the last job changed is filled with the new situation. 
 
-The code for filling the missing information is available [here](src="/files/fill_missings_JEP_2301.do")
+The code for filling the missing information is available [here](/files/fill_missings_JEP_2301.do")
+
 
 ## Reduction in Missingness & country- and gender-specific patterns
 
@@ -58,10 +59,10 @@ When considering all person-year spells and not only those for ages 16 onwards t
 Figures 3 shows the categories of the *situation* variable that have been filled in relative and absolute terms by gender and pooled over all countries. 77.8% of the missing data (a total of 194,383 person-year spells) for women is due to unpaid care work (*Looking after home and family*) they engaged in after their last job. Thus, not considering the situation respondents were in after their last job produces particularly large shares of missing spells for women engaged in care work. This is most likely due to the traditionally gendered division of labour in most of the observed countries, in which women are more likely to drop-out of the labour market and retire earlier due to care duties (e.g. Carr u. a. 2016; Zagel und Van Winkle 2020). Thus, a large share of unpaid care work is obscured in the original *situation* variable. For women, small shares of the previously missing data represent being *sick or disabled* as well as unemployment periods – spells that were underestimated in the JEP data so far too.
 
 
- ### Figures 3. Distribution of working states that have been filled for all countries by gender.
+### Figures 3. Distribution of working states that have been filled for all countries by gender.
 
- <img src="/files/2023-01-25-blogpost_jep/3_1_distribution_imputation-situation_gender.png" style="display: block; margin: auto;" />
- <img src="/files/2023-01-25-blogpost_jep/3_2_distribution_imputation-situation_gender_freq.png" style="display: block; margin: auto;" />
+<img src="/files/2023-01-25-blogpost_jep/3_1_distribution_imputation-situation_gender.png" style="display: block; margin: auto;" />
+<img src="/files/2023-01-25-blogpost_jep/3_2_distribution_imputation-situation_gender_freq.png" style="display: block; margin: auto;" />
   <font size="1"> Own calculations based on whole sample of JEP release 7.1.0. Some small categories merged.6</font>
 
 
@@ -71,7 +72,7 @@ For men on the other hand, a majority of previously missing data is due to being
 However, for both, men and women, the situation that is filled and thus was previously neglected differ across countries. Figures A3 show the distribution of working states that have been filled for each country by gender. For women, in all countries the highest share of missing spells was filled with care work. However, the magnitude differs. Whereas in Spain 91% of all missing spells of women are due to *looking after home and family*, in Poland it is 44%. For example, for men in Italy, roughly as many spells of *unemployed and searching for a job* as well as being *sick or disabled* were filled (27% each), whereas in the Netherlands 67% of spells were filled with being *sick or disabled* alone. For men in Slovenia, only 9% of the previously missing social situation spells are due to being *sick or disabled*, while 35% are due to *unemployed and searching for a job* and 27% due to *unemployed and not searching for a job*. 
 
 
-### Summary and use
+## Summary and use
 
 The missingness of the *situation* variable is not random, but very gendered. Furthermore, the situations concealed by the missing information in the original *situation* variable are highly skewed as well, mostly covering rather precarious situations beyond employment. 
 
@@ -82,6 +83,7 @@ Other variables provided by the Job Episodes Panel that are originally based on 
 The team of the Job Episodes Panel will address this issue, among others, and publish a new version of the Job Episodes Panel including some other improvements with the next SHARE release. Until this release is publicly available, scholars who used or currently use the Job Episodes Panel and the *situation* variable might still want to use the (almost) full retrospective working/activity lives. This might be relevant for ongoing projects, but also for replications of already finished studies for which the *situation* variable was relevant. 
 
 The code provided can be applied to fill most of the missing person-year spells on the *situation* variable and is meant to be used only as transition solution until the fully revised Job Episodes Panel is available. 
+
 
 
 References
