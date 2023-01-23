@@ -29,5 +29,30 @@ When focussing on all person-year-spells the gender gaps become narrower (figure
 
  <font size="1"> Own calculations based on whole sample of JEP release 7.1.0.6</font>
 
- 
 
+
+## The Source of Missingness and a Potential Solution
+
+The Job Episodes Panel (up until release 8.0.0) does not consider variables of the raw data containing information on the situations people were in after their last job (variables re035_*, re039_*, re039a_*). They are then asked whether the situation changed again and to report the second situation they were in after the change etc. until their situation does not change anymore. Most of the spells with missing information can be filled using this information of the raw data.
+I impute only person-year-spells that are missing on the situation variable and that occur in the years after the last reported job (re035). Spells with missing information are filled for each year until the first year with non-missing information on the situation variable or until the situation changed again (re039a). If the situation changed, the same procedure is done for the nth situation after the last job nth times. The year in which the situation after the last job changed is filled with the new situation. 
+The code for filling the missing information is available here:
+
+## Reduction in Missingness & country- and gender-specific patterns
+
+Figure 2 shows the share of missingness by country and gender after filling the missing information as described above. The level of relative missingness drops down to on average below 2% of all person-year spells for most countries. The improvement differs across countries and gender, but overall, the gender gaps in missingness are reduced to a minor level. 
+When considering all person-year spells and not only those for ages 16 onwards the share of missing data drops down to an average of 7-9% for most countries (figure A2). This is because most respondents have missing information in their first 4 years of life which cannot be filled by the applied procedure – 81% of the remaining missing information on the situation variable occur during the first 15 years of age. And a large share of the remaining missing information is due to gaps between education and the first situation after the end of the education phase.
+
+
+### Figure 2. Missingness after adjustment.
+
+<img src="/files/2023-01-25-blogpost_jep/2missing-after-impu_genderXcountry_2r_rel_age16.png" style="display: block; margin: auto;" />
+
+ <font size="1"> Own calculations based on whole sample of JEP release 7.1.0.6</font>
+
+ Figures 3 shows the categories of the situation variable that have been filled in relative and absolute terms by gender and pooled over all countries. 77.8% of the missing data (a total of 194,383 person-year spells) for women is due to unpaid care work (Looking after home and family) they engaged in after their last job. Thus, not considering the situation respondents were in after their last job produces particularly large shares of missing spells for women engaged in care work. This is most likely due to the traditionally gendered division of labour in most of the observed countries, in which women are more likely to drop-out of the labour market and retire earlier due to care duties (e.g. Carr u. a. 2016; Zagel und Van Winkle 2020). Thus, a large share of unpaid care work is obscured in the original situation variable. For women, small shares of the previously missing data represent being sick or disabled as well as unemployment periods – spells that were underestimated in the JEP data so far too.
+
+ ### Figures 3. Distribution of working states that have been filled for all countries by gender.
+
+ <img src="/files/2023-01-25-blogpost_jep/3_1_distribution_imputation-situation_gender.png" style="display: block; margin: auto;" />
+ <img src="/files/2023-01-25-blogpost_jep/3_2_distribution_imputation-situation_gender_freq.png" style="display: block; margin: auto;" />
+  <font size="1"> Own calculations based on whole sample of JEP release 7.1.0.6</font>
