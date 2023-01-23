@@ -1,10 +1,8 @@
 ---
 title: 'Missing data in the SHARE Job Episodes Panel: A potential cause and solution
 
-<img src="/files/3_1_distribution_imputation-situation_gender.png" style="display: block; margin: auto;" />
-
+<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" style="display: block; margin: auto;" />
 '
-
 date: 2023-01-25
 permalink: /posts/2023/01/blogpost_jep/
 tags:
@@ -41,7 +39,7 @@ The Job Episodes Panel (up until release 8.0.0) does not consider variables of t
 
 I impute only person-year-spells that are missing on the *situation* variable and that occur in the years after the last reported job (re035). Spells with missing information are filled for each year until the first year with non-missing information on the *situation* variable or until the situation changed again (re039a). If the situation changed, the same procedure is done for the nth situation after the last job nth times. The year in which the situation after the last job changed is filled with the new situation. 
 
-The code for filling the missing information is available [here](/files/fill_missings_JEP_2301.do)
+The code for filling the missing information is available [here](/files/2023-01-25-blogpost_jep/fill_missings_JEP_2301.do)
 
 
 ## Reduction in Missingness & country- and gender-specific patterns
