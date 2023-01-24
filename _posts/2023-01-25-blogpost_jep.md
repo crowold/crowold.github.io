@@ -10,7 +10,7 @@ tags:
   - replication
 ---
 
-<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" width="50">
+<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" width="200" style="display: block; margin: auto; alt: drawing;">
 
 
 ## Missingness in the Job Episodes Panel
