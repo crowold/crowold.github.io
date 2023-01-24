@@ -10,11 +10,10 @@ tags:
   - replication
 ---
 
-<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" style="width: '50'"/>
+<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" width="50">
 
 
 ## Missingness in the Job Episodes Panel
-Missing data in the SHARE Job Episodes Panel: A potential cause and solution
 
 The Survey of Health, Ageing and Retirement in Europe (SHARE) is a cross-national panel study for individuals aged 50 and older covering 28 countries in the most recent waves (Bergmann u. a. 2019). SHARELIFE contains valuable and detailed retrospective data about individual life courses. Instead of the raw survey data, many researchers use the Job Episodes Panel (JEP), a generated dataset containing information on working life courses based on the retrospective SHARELIFE data (Brugiavini u. a. 2013, 2019). One of the particularly rich variables is the *situation* indicator containing the self-reported situation or activity individuals were in for each year, covering multiple categories out of labour force. Constructing such variables and making them publicly available is an important service for the academic community and improves the comparability of research since the data preparation is less heterogenous compared to when data preparation is based on individual decisions. However, the *situation* variable contains missing information for sizeable shares of person-year spells. This is problematic because missingness seems to be not random when looking at the two dimensions countries and gender.
 
