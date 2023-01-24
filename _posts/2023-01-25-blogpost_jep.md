@@ -1,7 +1,7 @@
 ---
 title: 'Missing data in the SHARE Job Episodes Panel: A potential cause and solution
 
-<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" style="display: block; margin: auto; alt: drawing; width: 50"/>
+<img src="/files/2023-01-25-blogpost_jep/hmm-there-is.jpg" style="width: &quot;50&quot;"/>
 '
 date: 2023-01-25
 permalink: /posts/2023/01/blogpost_jep/
