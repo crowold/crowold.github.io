@@ -51,11 +51,7 @@
 			- If the situation changed, the same procedure is done for the nth situation after the last job nth times
 			- new situation var: situation_impu_re
 			*/
-			
-	* check how much of the missings on situation is captured by variable afterlast	
-		tab afterlast if situation==., mi
-		tab afterlast situation, mi  // strange. only for retirement spells	
-		
+					
 				
 	*gen highest year of end of job (i.e. year when last job ends) -> only filling missings after last job ended
 			cap drop lastjob_end
@@ -141,7 +137,6 @@
 			bys mergeid: egen n_imputations= total(flag_filling)
 				tab n_imputations
 					label var n_imputations "Number of imputations/fillings of the situation var"
-					list mergeid if flag_impu_situation_re>2 & flag_impu_situation_re!=. //
 		
 		*drop all raw data and techniqual variables
 			drop re* _merge_sharelifew7 n1 n2 n3 n4 n5 n6 n7 n8 n9 n10
