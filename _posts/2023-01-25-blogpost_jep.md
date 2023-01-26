@@ -23,7 +23,7 @@ Using the person-year-spells for ages above 15 of whole JEP sample, the average 
 When focussing on all person-year-spells the gender gaps become narrower (figure A1). However, in most empirical applications, the *situation* variable might be applied for employment biographies which is why I focus on the ages above 15 in the main figures here.  
 
 
-### Figure 1: Missingness before adjustment.
+### Figure 1: Missingness <ins>before</ins> adjustment.
 
 <img src="/files/2023-01-25-blogpost_jep/1missing-before-impu_genderXcountry_2r_rel_age16.png" style="display: block; margin: auto;" />
 
@@ -45,7 +45,7 @@ Figure 2 shows the share of missingness by country and gender after filling the 
 When considering all person-year spells and not only those for ages 16 onwards the share of missing data drops down to an average of 7-9% for most countries (figure A2). This is because most respondents have missing information in their first 4 years of life which cannot be filled by the applied procedure – 81% of the remaining missing information on the situation variable occur during the first 15 years of age. And a large share of the remaining missing information is due to gaps between education and the first situation after the end of the education phase.
 
 
-### Figure 2. Missingness after adjustment.
+### Figure 2. Missingness <ins>after</ins> adjustment.
 
 <img src="/files/2023-01-25-blogpost_jep/2missing-after-impu_genderXcountry_2r_rel_age16.png" style="display: block; margin: auto;" />
 
@@ -80,7 +80,7 @@ The code provided can be applied to fill most of the missing person-year spells 
 
 
 
-Please find the blogpost including the full appendix as pdf here
+Please find the blogpost including the full appendix [as pdf here](/files/2023-01-25-blogpost_jep/Rowold23_MissingSituation_JEP.pdf)
 
 
 ## Appendix
@@ -112,13 +112,12 @@ Please find the blogpost including the full appendix as pdf here
 ## References
 <a id="1">[1]</a>
 Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.
-
 <a id="2">[2]</a>
-Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.</br>
+Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.
 <a id="3">[3]</a>
-Brugiavini, Agar, Cristina E. Orso, Mesfin G. Genie, Rinaldo Naci, und Giacomo Pasini. 2019. „Combining the Retrospective Interviews of Wave 3 and Wave 7: The Third Release of the SHARE Job Episodes Panel“.</br>
+Brugiavini, Agar, Cristina E. Orso, Mesfin G. Genie, Rinaldo Naci, und Giacomo Pasini. 2019. „Combining the Retrospective Interviews of Wave 3 and Wave 7: The Third Release of the SHARE Job Episodes Panel“.
 <a id="4">[4]</a>
-Carr, Ewan, Emily T. Murray, Paola Zaninotto, Dorina Cadar, Jenny Head, Stephen Stansfeld, und Mai Stafford. 2016. „The Association Between Informal Caregiving and Exit From Employment Among Older Workers: Prospective Findings From the UK Household Longitudinal Study“. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences gbw156. doi: 10.1093/geronb/gbw156.</br>
+Carr, Ewan, Emily T. Murray, Paola Zaninotto, Dorina Cadar, Jenny Head, Stephen Stansfeld, und Mai Stafford. 2016. „The Association Between Informal Caregiving and Exit From Employment Among Older Workers: Prospective Findings From the UK Household Longitudinal Study“. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences gbw156. doi: 10.1093/geronb/gbw156.
 <a id="5">[5]</a>
 Zagel, Hannah, und Zachary Van Winkle. 2020. „Women’s Family and Employment Life Courses Across Twentieth-Century Europe: The Role of Policies and Norms“. Social Politics: International Studies in Gender, State & Society . Online first. doi: 10.1093/sp/jxz056.
 
