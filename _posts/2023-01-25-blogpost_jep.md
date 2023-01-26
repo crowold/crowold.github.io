@@ -81,13 +81,13 @@ The code provided can be applied to fill most of the missing person-year spells 
 
 ## References
 <a id="1">[1]</a>
-Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.
+Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.</br>
 <a id="2">[2]</a>
-Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.
+Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.</br>
 <a id="3">[3]</a>
-Brugiavini, Agar, Cristina E. Orso, Mesfin G. Genie, Rinaldo Naci, und Giacomo Pasini. 2019. „Combining the Retrospective Interviews of Wave 3 and Wave 7: The Third Release of the SHARE Job Episodes Panel“.
+Brugiavini, Agar, Cristina E. Orso, Mesfin G. Genie, Rinaldo Naci, und Giacomo Pasini. 2019. „Combining the Retrospective Interviews of Wave 3 and Wave 7: The Third Release of the SHARE Job Episodes Panel“.</br>
 <a id="4">[4]</a>
-Carr, Ewan, Emily T. Murray, Paola Zaninotto, Dorina Cadar, Jenny Head, Stephen Stansfeld, und Mai Stafford. 2016. „The Association Between Informal Caregiving and Exit From Employment Among Older Workers: Prospective Findings From the UK Household Longitudinal Study“. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences gbw156. doi: 10.1093/geronb/gbw156.
+Carr, Ewan, Emily T. Murray, Paola Zaninotto, Dorina Cadar, Jenny Head, Stephen Stansfeld, und Mai Stafford. 2016. „The Association Between Informal Caregiving and Exit From Employment Among Older Workers: Prospective Findings From the UK Household Longitudinal Study“. The Journals of Gerontology Series B: Psychological Sciences and Social Sciences gbw156. doi: 10.1093/geronb/gbw156.</br>
 <a id="5">[5]</a>
 Zagel, Hannah, und Zachary Van Winkle. 2020. „Women’s Family and Employment Life Courses Across Twentieth-Century Europe: The Role of Policies and Norms“. Social Politics: International Studies in Gender, State & Society . Online first. doi: 10.1093/sp/jxz056.
 
