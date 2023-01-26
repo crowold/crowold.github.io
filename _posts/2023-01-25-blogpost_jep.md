@@ -8,6 +8,7 @@ tags:
   - JobEpisodesPanel
   - goodtoknow
   - replication
+  - missingdata
 ---
 
 <img src="/files/2023-01-25-blogpost_jep/hmm-there-is.png" width="500" height="280" style="display: block; margin: auto; alt: drawing;">
@@ -79,9 +80,39 @@ The code provided can be applied to fill most of the missing person-year spells 
 
 
 
+Please find the blogpost including the full appendix as pdf here
+
+
+## Appendix
+### Figure A1. Missingness for <ins>all</ins> person-year spells <ins>before</ins> filling missing information.
+
+<img src="/files/2023-01-25-blogpost_jep/A1missing-before-impu_genderXcountry_2r_rel.png" style="display: block; margin: auto;" />
+
+ <font size="1"> Own calculations based on whole sample of JEP release 7.1.0.6</font>
+
+### Figure A2. Share of missingness for <ins>all</ins> person-year spells <ins>after</ins> filling missing information.
+
+<img src="/files/2023-01-25-blogpost_jep/A2missing-after-impu_genderXcountry_2r_rel.png" style="display: block; margin: auto;" />
+
+ <font size="1"> Own calculations based on whole sample of JEP release 7.1.0.6</font>
+
+### Figures A3. Relative distribution of working states that have been filled for each country by gender.
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Italy.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Netherlands.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Poland.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Slovenia.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Spain.png" style="display: block; margin: auto;" />
+
+
 ## References
 <a id="1">[1]</a>
-Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.</br>
+Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.
+
 <a id="2">[2]</a>
 Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.</br>
 <a id="3">[3]</a>
