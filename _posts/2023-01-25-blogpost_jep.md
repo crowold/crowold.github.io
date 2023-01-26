@@ -80,7 +80,8 @@ The code provided can be applied to fill most of the missing person-year spells 
 
 
 
-Please find the blogpost including the full appendix [as pdf here](/files/2023-01-25-blogpost_jep/Rowold23_MissingSituation_JEP.pdf)
+
+The blogpost is available [as pdf here](/files/2023-01-25-blogpost_jep/Rowold23_MissingSituation_JEP.pdf)
 
 
 ## Appendix
@@ -98,15 +99,63 @@ Please find the blogpost including the full appendix [as pdf here](/files/2023-0
 
 ### Figures A3. Relative distribution of working states that have been filled for each country by gender.
 
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Austria.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Belgium.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Bulgaria.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Croatia.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Cyprus.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Czechia.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Denmark.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Estonia.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Finland.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_France.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Germany.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Greece.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Hungary.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Ireland.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Israel.png" style="display: block; margin: auto;" />
+
 <img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Italy.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Latvia.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Lithuania.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Luxembourg.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Malta.png" style="display: block; margin: auto;" />
 
 <img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Netherlands.png" style="display: block; margin: auto;" />
 
 <img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Poland.png" style="display: block; margin: auto;" />
 
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Portugal.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Romania.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Slovenia.png" style="display: block; margin: auto;" />
+
 <img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Slovenia.png" style="display: block; margin: auto;" />
 
 <img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Spain.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Sweden.png" style="display: block; margin: auto;" />
+
+<img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Switzerland.png" style="display: block; margin: auto;" />
 
 
 ## References
