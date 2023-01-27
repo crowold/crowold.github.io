@@ -163,7 +163,7 @@ I want to thank Christiaan Monden, Rinaldo Naci, Kent Troutman and Zachary Van W
 
 
 ### References
-<a id="1">[2]</a>
+<a id="1">[1]</a>
 Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.
 <a id="2">[2]</a>
 Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.
