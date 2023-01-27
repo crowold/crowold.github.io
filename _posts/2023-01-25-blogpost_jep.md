@@ -158,8 +158,11 @@ The blogpost is available [as pdf here](/files/2023-01-25-blogpost_jep/Rowold23_
 <img src="/files/2023-01-25-blogpost_jep/distribution_imputation-situation_originalcats_Switzerland.png" style="display: block; margin: auto;" />
 
 
-## References
-<a id="1">[1]</a>
+### Acknowledgements 
+I want to thank Christiaan Monden, Rinaldo Naci, Kent Troutman and Zachary Van Winkle for their helpful feedback.
+
+
+### References
 Bergmann, Michael, Thorsten Kneip, Giuseppe De Luca, und Annette Scherpenzeel. 2019. „Survey participation in the Survey of Health, Ageing and Retirement in Europe (SHARE), Wave 1-7“. Munich: Munich Center for the Economics of Aging.
 <a id="2">[2]</a>
 Brugiavini, Agar, Danilo Cavapozzi, Giacomo Pasini, und Elisabetta Trevisan. 2013. „Working Life Histories from SHARELIFE: A Retrospective Panel“. 14.
