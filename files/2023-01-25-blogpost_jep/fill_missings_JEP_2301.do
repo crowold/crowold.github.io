@@ -138,16 +138,17 @@
 				tab n_imputations
 					label var n_imputations "Number of imputations/fillings of the situation var"
 		
-		*drop all raw data and techniqual variables
-			drop re* _merge_sharelifew7 n1 n2 n3 n4 n5 n6 n7 n8 n9 n10
 			
 *****************				
 		*5. Further checks related variables
 				*****************			
 		***
 		*1. Working or retirement dummies X imputed situation var?
-			tab unem situation_impu_re if situation==., mi // unemployment variable should be updated too ~ 30,000 spells
+			tab unemployed situation_impu_re if situation==., mi // unemployment variable should be updated too ~ 30,000 spells
 			tab retired situation_impu_re if situation==., mi // retired variable should be updated too
+			
+		*drop all raw data and techniqual variables
+			drop re* _merge_sharelifew7 n1 n2 n3 n4 n5 n6 n7 n8 n9 n10
 			
 		save "$temp/JEPonly_situation_impu.dta", replace
 	
