@@ -123,7 +123,7 @@
 *****************				
 		*4. Check outcome
 				*****************					
-			tab age if 	situation_impu_re==. //81% of the remaining missings on sitation occur at age<16
+			tab situation_impu_re
 			tab situation_impu_re if age >15, mi
 				
 					
