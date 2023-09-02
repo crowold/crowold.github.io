@@ -1,7 +1,7 @@
 ---
 title: "Der Zusammenhang von Familien- und Arbeitsbiografien und Rentensystemen mit dem Gender-Pension-Gap – geschlechtsspezifische Rentenlücken in Europa aus der Lebensverlaufsperspektive"
 collection: publications
-permalink: /publication/2022-06-masterthesis
+permalink: /publication/2022-06-GPGEurope
 excerpt: '<i>German version of master thesis<i>.
 
 Gender Pension Gaps in Ländern, deren Rentensysteme  eine starke Referenz zu „typisch
