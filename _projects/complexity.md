@@ -19,14 +19,18 @@ In this project we conceptualize childhood complexity based on the family lives 
 
 
 
-Under review
+Published
 ======
 ------
 **Cohort Change in the Family Complexity of Adults and Children**
 
 <i>With Zachary Van Winkle<i>
-> Although research on the complexity of family lives is motivated by its potential consequences for children, few studies have assessed to what extent children have been exposed to increased family complexity. We assessed how family complexity evolved over the life course of adults in the United Kingdom, how it varied by birth cohort, gender, and parenthood status, and most importantly, how it varied across the early life courses of children by birth cohort. We used rich retrospective partnership histories from UKHLS and BHPS to reconstruct adults’ family life courses born across the 20th Century and calculate their complexity. We then transposed parents’ family sequences to reflect what their children experienced in their first 16 years of life. Our methodological approach presents the first step in pairing techniques developed in sequence analysis with longitudinal regression-based analyses for estimating the association between life course family complexity and children’s wellbeing. It provides a broader and more dynamic measure for children’s family life compared to measurements literature on the impact of family live on children’s outcomes has applied so far. 
-We find an increasing level and growth of life course family complexity over cohorts. Mothers have the largest family life course complexity, followed by fathers, childless women and, lastly, by childless men. These differences converge across cohorts. Changing the perspective from parents to children we reveal that children’s family complexity has increased dramatically across birth cohorts – for both, mothers’ and fathers’ family lives. Children of the youngest cohort experience a higher number of family transitions and unpredictability already at very young ages. This sets the starting point for future research on the consequences of such increasing family complexity for children’s outcomes and inequality therein.
+> Although research on the complexity of family lives is motivated by its potential consequences for children, few studies have assessed to what extent children have been exposed to increased family complexity. We address how family complexity evolved over the life course of adults in the United Kingdom, how it varied by birth cohort, gender, and parenthood status, and most importantly, how it varied across the early life courses of children by birth cohort. Although research on the complexity of family lives is motivated by its potential consequences for children, few studies have assessed to what extent children have been exposed to increased family complexity.
+
+We used rich retrospective UKHLS and BHPS data to reconstruct the family histories of adults born across the twentieth century and calculate life course complexity. We then transposed parents’ family sequences to reflect what their children experienced in their first 16 years of life. Our methodological approach provides a broader and more dynamic measure for children’s family life complexity compared to measures used in previous studies, such as a simple count of household transitions.
+
+We found an overall increase in life course family complexity over cohorts. Mothers had the most complex family life courses, followed by fathers, childless women and, lastly, childless men. However, differences between parents and childless adults converged across cohorts. By changing the perspective from parents to children, we revealed that children’s family complexity increased dramatically across birth cohorts. The two most recent cohorts of children experienced a considerably higher number of family transitions and greater family unpredictability at young ages compared to older cohorts. We provide conceptual and methodological contributions to spur future research on the consequences of increasing family complexity for children.
  
+[Publication](https://link.springer.com/chapter/10.1007/978-3-031-29666-6_10)
 
 
