@@ -19,7 +19,7 @@ In the second paper I apply this method to rich data in Germany linking survey t
 In the third paper, I ask which specific aspects of work and family life courses play a role for pension income inequality. Machine Learning tools reveal the most important predicators for pension income inequality. As second step, I decompose the Gender Pension Gaps based on these aspects.
 
 
-Under review
+Published
 ======
 ------
 **Life-course-sensitive analysis of group inequalities in old age: Combining sequence analysis with the Kitagawa-Oaxaca-Blinder decomposition**
@@ -29,6 +29,7 @@ Under review
 
 [Working paper](https://osf.io/preprints/socarxiv/7k4vt/){: .btn--research} 
 
+[Published article](https://journals.sagepub.com/doi/10.1177/00491241231224226){: .btn--research} 
 
 Work in progress
 ======
