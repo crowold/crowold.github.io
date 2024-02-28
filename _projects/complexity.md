@@ -4,7 +4,7 @@ layout: single-portfolio
 permalink: /projects/familycomplexity/
 collection: projects
 order_number: 11
-excerpt: "<i>With Zachary Van Winkle:<i> 
+excerpt: "<i>With Zachary Van Winkle & Martin Gädecke:<i> 
 
 
 Revealing the consequences of children’s family complexity over their childhood
@@ -34,3 +34,9 @@ Published
 [Publication](https://link.springer.com/chapter/10.1007/978-3-031-29666-6_10)
 
 
+Work in progress
+======
+------
+**Children’s Family Life Course Complexity and Consequences for Educational Outcomes in the UK**
+
+<i>With Martin Gädecke & Zachary Van Winkle<i>
