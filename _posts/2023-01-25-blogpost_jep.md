@@ -81,7 +81,9 @@ The code provided can be applied to fill most of the missing person-year spells 
 
 
 
-The blogpost is available [as pdf here](/files/2023-01-25-blogpost_jep/Rowold23_MissingSituation_JEP.pdf) and the interim code for filling the missings [here](/files/2023-01-25-blogpost_jep/fill_missings_JEP_2301.do)
+The blogpost is available [as pdf here](/files/2023-01-25-blogpost_jep/Rowold23_MissingSituation_JEP.pdf) and the interim code for filling the missings [here](https://zenodo.org/records/10479858)
+
+Please cite the code as: Carla Rowold (2024): Code for filling missing person-month spells in JEP (1.0). Zenodo. https://doi.org/10.5281/zenodo.10479858
 
 
 ## Appendix
