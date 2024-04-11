@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Carla Rowold"
-  avatar           : "profile2.jpg"
+  avatar           : "Carla1.jpg"
   bio              : "Research on gender inequalities over the life course "
-  location         : "Oxford | Berlin"
+  location         : "Oxford | Berlin | Rostock"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kde4K-kAAAAJ&hl=de&oi=ao"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        :  
 
 
 # Reading Files
