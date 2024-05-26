@@ -31,6 +31,8 @@ Published
 
 [Published article](https://journals.sagepub.com/doi/10.1177/00491241231224226){: .btn--research} 
 
+[Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
+
 In Preparation for Submission
 ======
 ------
@@ -41,12 +43,10 @@ In Preparation for Submission
 
 **Full-time employment is all that matters? Decomposing Gender Pension Gaps based on relevant life course features in Germany & the Netherlands**
 
-> Gender ineqailities in earnings are well documented, but we know little about gendered pension income inequalites, despite reaching much larger levels. Gender Pension Gaps (GPG) are so far either analysed based on selective sets of life course summary measures, mostly the duration in full-time employment, or based on life course typologies. Whereas the first approach neglects other dimensions such as the timing or ordering of events over the life course, the latter risks concealing specific attributes of life courses relevant for pension income inequality. 
+> Gender Pension Gaps (GPG) are so far either analysed based on selective sets of life course summary measures, mostly the duration in full-time employment, or based on life course typologies. Whereas the first approach neglects other dimensions such as the timing or ordering of events over the life course of other work and family categories, the latter risks concealing specific attributes of life courses particularly relevant for pension income inequality. This study contributes by, first, applying the Life Course Feature Selection to identify which work and family life course aspects are the most important pension income predictors. The second step decomposes the GPG based on these relevant life course aspects, revealing how they are related to gendered pension income inequality. Comparing the results across the different pension regimes of Germany and the Netherlands provides insights on whether similarly gendered life course aspects are differently related to GPG across different pension designs.
 
-This study contributes by, first, applying the Life Course Feature Selection to identify which work and family life course aspects are the most important pension income predictors in West Germany and the Netherlands. The second step decomposes the GPG based on these life course aspects, revealing how they are related to gendered pension income inequality. 
-Results show that aspects of all life course dimensions (duration, timing, ordering and complexity) play a role for pension inequality. Aspects related to unpaid care work, particularly the years engaged in care work, are among the most relevant pension predictors in both countries. Contrary to what previous literature suggested, the duration of full-time employment plays a much less important role. The non-parametric Ñopo decomposition reveals that the extremely gender-specific combination of the observed life course experiences, particularly regarding care work, is the main contributor to the Gender Pension Gap in both countries. 
-
-Future research should consider such gender-specific combination of life course aspects and life course proxies beyond the employment duration. Policymakers could either equalise gendered life course opportunities or reward gendered life cours experiences more equally to prevent large GPGs in the future.
+Results show that aspects of all life course dimensions (duration, timing, ordering, and complexity) play a role for pension inequality. Life course aspects related to unpaid care work, particularly the years engaged in care work, are among the most relevant pension predictors in both countries. Contrary to what previous literature suggested, the duration of full-time employment plays a much less important role.  
+The non-parametric Ñopo decomposition reveals that the extremely gender-specific combination of the observed life course experiences, particularly regarding care work, is the main contributor to the Gender Pension Gap in both countries. Highlighting the relevance of specific life course aspects allows policy makers to employ more targeted policies to prevent the reproduction of gender inequalities over the life course in old age. Furthermore, the results advice to consider life course proxies beyond the years spent in (full-time) employment as well as the extremely gender-specific combination of life course aspects.
 
 
-
+[Video recording of paper presentation, from minute 55.45](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
