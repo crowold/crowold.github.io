@@ -14,5 +14,7 @@ Processes that unfold over individuals’ life courses are often associated with
 
 [Download paper here](https://journals.sagepub.com/doi/10.1177/00491241231224226)
 
+[Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
+
 Recommended citation: Rowold, C., Struffolino, E., & Fasang, A. E. (2024). Life-Course-Sensitive Analysis of Group Inequalities: Combining Sequence Analysis With the Kitagawa–Oaxaca–Blinder Decomposition. Sociological Methods & Research, 0(0). https://doi.org/10.1177/00491241231224226
 
