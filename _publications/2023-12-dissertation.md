@@ -3,7 +3,7 @@ title: "An accumulation of gender inequalities in old age? Exploring life course
 collection: publications
 permalink: /publication/2022-04-MSA+KOB
 excerpt: 'Dissertation on which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives'
-date: 2023-12
+date: 2023-12-01
 venue: 'Dissertation'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/00491241231224226'
 citation: 'Rowold C (2023) An accumulation of gender inequalities in old age? Exploring life course- and gender-sensitive approaches for analysing Gender Pension Gaps. PhD Thesis. University of Oxford. Available at: 10.5287/ora-nrdgbeegq.'
