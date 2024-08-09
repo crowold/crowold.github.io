@@ -35,13 +35,14 @@ Published
 
 [Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
 
-In Preparation for Submission
+In Review
 ======
 ------
 **Differences in Gender Pension Gaps in public and private pensions in West Germany: Which role do work-family life courses play?**
 
 > How are work-family life courses associated with the Gender Pension Gap (GPG)? Do these mechanisms vary between the gender gap in public compared to private pensions? I assess these questions by applying an innovative combination of the Multichannel Sequence Analysis with the Kitagawa-Blinder-Oaxaca decomposition and linking survey to register data for Germany to decompose GPGs based on work-family life courses. Additionally, I decompose GPGs based on the relative earning positions of individuals over the life course. Differentiating between pension types sheds light on the impact of pension privatization and provides more targeted suggestions for policy makers. The results reveal that gender differences in life course patterns mirroring gender inequalities of current cohorts in labour force (e.g. Gender Wage Gap) drive the GPG in private pensions to a higher extent than the gap in public pensions highlighting the risk of high GPGs in the future.
 
+[Working paper](https://osf.io/preprints/socarxiv/czn74){: .btn--research} 
 
 **Full-time employment is all that matters? Decomposing Gender Pension Gaps based on relevant life course features in Germany & the Netherlands**
 
@@ -49,5 +50,6 @@ In Preparation for Submission
 Results show that aspects of all life course dimensions (duration, timing, ordering, and complexity) play a role for pension inequality. Life course aspects related to unpaid care work, particularly the years engaged in care work, are among the most relevant pension predictors in both countries. Contrary to what previous literature suggested, the duration of full-time employment plays a much less important role.  
 The non-parametric Ñopo decomposition reveals that the extremely gender-specific combination of the observed life course experiences, particularly regarding care work, is the main contributor to the Gender Pension Gap in both countries. Highlighting the relevance of specific life course aspects allows policy makers to employ more targeted policies to prevent the reproduction of gender inequalities over the life course in old age. Furthermore, the results advice to consider life course proxies beyond the years spent in (full-time) employment as well as the extremely gender-specific combination of life course aspects.
 
+[Working paper](https://osf.io/preprints/socarxiv/fbq92){: .btn--research} 
 
 [Video recording of paper presentation, from minute 55.45](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
