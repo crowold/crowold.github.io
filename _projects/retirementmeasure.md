@@ -6,9 +6,7 @@ collection: projects
 order_number: 2
 excerpt: "Reviewing retirement measurements from a gender-sensitive perspective and revealing potential implications for old-age outcomes across contexts"
 
- <img src='/files/goldgirls_housewives never retire.png' alt=''>"
-header: 
-  og_image: "files/goldgirls_housewives never retire.png"
+ 
 ---
 
 In this research project I review and discuss retirement and sample measurements applied in studies on old-age inequalities and empirically reveal their implications for popular old-age outcomes across contexts. 
