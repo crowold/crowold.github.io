@@ -15,7 +15,7 @@ header:
   og_image: "files/complexity.png"
 ---
 
-In this project we conceptualize childhood complexity based on the family lives of children’s parents and reveal how family complexity evolves dynamically over the life course. First, we introduce the concept and measurement of family life course complexity. Second, we show how life course variation in the family complexity of adults and children has developed over cohorts. In future studies, we will assess the impact of dynamic family complexity on children's grades and attitudes towards schooling along educational trajectories, which will contribute to recent research on inequality in educational performance and opportunities.
+In this project we conceptualize childhood complexity based on the family lives of children’s parents and reveal how family complexity evolves dynamically over the life course. First, we introduce the concept and measurement of family life course complexity. For this, we test different concepts of family complexity. Second, we show how life course variation in the family complexity of adults and children has developed over cohorts. Third, we  assess the impact of dynamic family complexity on children's outcomes, such as education or mental health. 
 
 
 
@@ -38,3 +38,7 @@ Work in progress
 **Children’s Family Life Course Complexity and Consequences for Educational Outcomes in the UK**
 
 <i>With Martin Gädecke & Zachary Van Winkle<i>
+
+**Family Environments and Children's Mental Health: A Holistic Examination Across Five Perspectives**
+
+<i>With Lauren Bishop, Philipp Dierker, Martin Gädecke, Zachary Van Winkle, Pekka Martikainen, Liina Junna<i>

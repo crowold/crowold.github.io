@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in Sociology 
+Postdoctoral Researcher
 
 About me
 ======
 
-I am a PhD candidate in Sociology at the University of Oxford and a postdoctoral researcher at the Max-Planck-Institute for Demographic research. In my [dissertation](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd) I study the [Gender Pension Gap](https://crowold.github.io/projects/genderpensiongap/)- that is the difference between the mean pension income of women compared to the mean pension income of men. I explore life course and gender sensitive approaches to assess the link between gender inequalities over the life course and public policies, such as pension systems, with the Gender Pension Gap. My aim is to take into account complexities and the multidimensionality of life courses.
+I am a postdoctoral researcher at the Max-Planck-Institute for Demographic Research and obtained my PhD in Sociology from the University of Oxford and Nuffield College. My research focuses on inequalities across the life course, with a particular emphasis on capturing the complexities and multidimensional nature of these experiences. I investigate disparities at various stages of life, including the Gender Pension and Wealth Gaps in old age, as well as inequalities at younger ages, such as educationatl inequalitites of children, and how these relate to different aspects of life courses. Additionally, my work aims to advance methodological approaches to better understand and analyze these life course inequalities.
+
+In my [dissertation](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd) I studied the [Gender Pension Gap](https://crowold.github.io/projects/genderpensiongap/)- that is the difference between the mean pension income of women compared to the mean pension income of men. I explored life course and gender sensitive approaches to assess the link between gender inequalities over the life course and public policies, such as pension systems, with the Gender Pension Gap. 
 
 Research interests:
 - Life course sociology
 - Gender and old-age inequalities
 - Family and retirement policies
 - Social demography
+- Quantitative methods, particularly decomposition and Sequence Analysis tools
 
 I obtained my BA and MA in Social Sciences from the Humboldt University of Berlin. 
 

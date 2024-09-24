@@ -35,6 +35,9 @@ Published
 
 [Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
 
+[Replication code](https://osf.io/ke3mg/)
+
+
 In Review
 ======
 ------
