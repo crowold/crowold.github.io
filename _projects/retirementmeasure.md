@@ -4,10 +4,7 @@ layout: single-portfolio
 permalink: /projects/retirementmeasure/
 collection: projects
 order_number: 2
-excerpt: "Reviewing retirement measurements from a gender-sensitive perspective and revealing potential implications for old-age outcomes across contexts
-
- <img src='/files/goldgirls_housewives_never_retire.png' alt=''>"
- 
+excerpt: "Reviewing retirement measurements from a gender-sensitive perspective and revealing potential implications for old-age outcomes across contexts."
 header: 
   og_image: "files/goldgirls_housewives_never_retire.png"
 ---
