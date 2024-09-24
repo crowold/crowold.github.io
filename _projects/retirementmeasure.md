@@ -7,6 +7,9 @@ order_number: 2
 excerpt: "Reviewing retirement measurements from a gender-sensitive perspective and revealing potential implications for old-age outcomes across contexts"
 
  
+ <img src='/files/goldgirls_housewives_never_retire.png' alt=''>"
+header: 
+  og_image: "files/goldgirls_housewives_never_retire.png"
 ---
 
 In this research project I review and discuss retirement and sample measurements applied in studies on old-age inequalities and empirically reveal their implications for popular old-age outcomes across contexts. 
@@ -24,4 +27,4 @@ Studies using such sample criteria to capture the population of the elderly like
 
 [Working paper](https://osf.io/preprints/socarxiv/4kq5e){: .btn--research} 
 
-<img src="/files/goldgirls_housewives never retire.png" width="500" height="280" style="display: block; margin: auto; alt: drawing;">
+<img src="/files/goldgirls_housewives_never_retire.png" width="500" height="280" style="display: block; margin: auto; alt: drawing;">
