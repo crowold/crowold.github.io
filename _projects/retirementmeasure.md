@@ -12,7 +12,6 @@ header:
 In this research project I review and discuss retirement and sample measurements applied in studies on old-age inequalities and empirically reveal their implications for popular old-age outcomes across contexts. 
 
 
-
 Work in progress
 ======
 **Housewives never retire!? Gender biases in popular sample definitions for studies on the elderly**
