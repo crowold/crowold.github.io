@@ -83,14 +83,15 @@ author:
   name             : "Carla Rowold"
   avatar           : "Carla1.jpg"
   bio              : "Research on gender inequalities over the life course "
-  location         : "Oxford | Berlin | Rostock"
+  location         : "Berlin | Rostock"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kde4K-kAAAAJ&hl=de&oi=ao"
-  email            : "carla.rowold[at]nuffield.ox.ac.uk"
+  email            : "rowold[at]demogr.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
+  bluesky          : "https://bsky.app/profile/crowold.bsky.social"
   codepen          :
   dribbble         :
   flickr           :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "linkedin.com/carla-rowold"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/https://orcid.org/0000-0003-0292-6096"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
