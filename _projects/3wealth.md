@@ -1,5 +1,5 @@
 ---
-title: "Wealth inequalities"
+title: "Gendered wealth inequalities"
 layout: single-portfolio
 permalink: /projects/wealthinequalities/
 collection: projects
@@ -23,18 +23,27 @@ Looking ahead, we are going to include country comparisons to assess to what ext
 
 
 
-Work in progress
+Published
 ======
 ------
 **Uncovering what matters: Family life course aspects and personal wealth in late working age**
 
 <i>With Nicole Kapelle<i>
-> Capturing the complexity of family life courses as predictors of later-life outcomes like wealth is challenging. Addressing this, we used German data and combined feature selection, sequence analysis tools, and regression techniques. This approach extends prior research that either (a) assessed a few selective but potentially irrelevant summary indicators, or (b) examined the relevance of entire life course clusters without identifying which specific aspects matter within and between clusters. We explored (I) which family life course aspects—encompassing the order, duration, and timing of states and transitions—are key wealth predictors for Western Germans aged 50 to 59. Additionally, we analysed (II) the strength and direction of associations between relevant aspects and wealth, and (III) whether these associations differ by gender. We identified 23 diverse features as relevant predictors, with two—the time spent never-married, both without and with children—deemed most relevant. Most features were negatively associated with wealth and characterised predominantly by single parenthood, marital separation or early marital transitions with or without fertility transitions. The prevalence and significance of associations between these features and wealth differed partly across genders. Results highlight the importance of previously concealed family life course features for wealth inequalities in late working age. 
+>  Background: Capturing the complexity of family life courses as predictors of later-life outcomes like wealth is challenging. Previous research has either (a) assessed a few selective but potentially irrelevant summary indicators, or (b) examined entire life-course clusters without identifying specific important aspects within and between them.
 
+Objective: Our aim is to investigate which family life-course variables that capture the order, duration, and timing of states and transitions are key personal wealth predictors for Western Germans aged 50 to 59, and to analyse the strength and direction of associations between the relevant variables and personal wealth, and whether these differ by gender.
 
+Methods: We used German Socio-Economic Panel (SOEP) data and combined feature selection, sequence analysis tools, and regression techniques.
+
+Results: We identified 23 family life-course variables as relevant predictors, with 2 – the time spent never-married, with and without children – deemed most relevant. Most family life-course variables were negatively associated with personal wealth and characterised by single parenthood, marital separation, or early marital transitions with or without fertility transitions. The prevalence and significance of some of the associations between these variables and personal wealth differed across genders. The results highlight the importance of previously concealed family life-course variables for wealth inequalities in late working age.
+
+Contribution: We extend previous research on the nexus between family demography and wealth stratification by using a novel, data-driven approach that more effectively explores family life-course complexities by considering the ‘entire’ universe of variables that describe such life courses and identifying those life-course variables that are relevant wealth predictors. 
+
+[Published paper](https://www.demographic-research.org/articles/volume/52/22)
 [Working paper](https://osf.io/preprints/socarxiv/pucvt){: .btn--research} 
 
-
+Work in progress
+======
 ------
 **Decomposing the Gender Wealth Gap in late working age based on the most relevant family and work life course aspects**
 
