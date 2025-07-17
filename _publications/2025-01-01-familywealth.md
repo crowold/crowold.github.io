@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Uncovering what matters: Family life-course aspects and personal wealth in late working age"
 collection: publications
 permalink: /publication/2025-01-familywealth
 excerpt: '<i>With Nicole Kapelle<i>:
