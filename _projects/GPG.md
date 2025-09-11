@@ -46,9 +46,10 @@ Published
 <i>With Emanuela Struffolino & Anette Fasang<i>
 > Processes that unfold over individuals’ life courses are often associated with inequalities later in life. The literature lacks methodological approaches to analyze inequalities in outcomes between groups, for example, between women and men, in a life-course-sensitive manner. We propose a combination of methods—of sequence analysis, which enables us to study the multidimensional complexity of life courses with Kitagawa–Oaxaca–Blinder decomposition. This approach allows us to distinguish the share of inequalities between groups that is due to group-specific life courses from the share that is due to group-specific returns to similar life courses. We illustrate the combination of the two methods by analyzing work–family life courses and gender pension gaps in Italy and Germany. Our contribution is to systematically compare possible core analytical choices when combining typologies derived using sequence analysis with the Kitagawa–Oaxaca–Blinder decomposition. For future applications, we propose a set of practical guidelines for sequence analysis–Kitagawa–Oaxaca–Blinder decomposition.. 
 
+[Published article](https://journals.sagepub.com/doi/10.1177/00491241231224226){: .btn--research} 
+
 [Working paper](https://osf.io/preprints/socarxiv/7k4vt/){: .btn--research} 
 
-[Published article](https://journals.sagepub.com/doi/10.1177/00491241231224226){: .btn--research} 
 
 [Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
 
@@ -64,12 +65,4 @@ In Review
 
 [Working paper](https://osf.io/preprints/socarxiv/czn74){: .btn--research} 
 
-**Full-time employment is all that matters? Decomposing Gender Pension Gaps based on relevant life course features in Germany & the Netherlands**
 
-> Gender Pension Gaps (GPG) are so far either analysed based on selective sets of life course summary measures, mostly the duration in full-time employment, or based on life course typologies. Whereas the first approach neglects other dimensions such as the timing or ordering of events over the life course of other work and family categories, the latter risks concealing specific attributes of life courses particularly relevant for pension income inequality. This study contributes by, first, applying the Life Course Feature Selection to identify which work and family life course aspects are the most important pension income predictors. The second step decomposes the GPG based on these relevant life course aspects, revealing how they are related to gendered pension income inequality. Comparing the results across the different pension regimes of Germany and the Netherlands provides insights on whether similarly gendered life course aspects are differently related to GPG across different pension designs.
-Results show that aspects of all life course dimensions (duration, timing, ordering, and complexity) play a role for pension inequality. Life course aspects related to unpaid care work, particularly the years engaged in care work, are among the most relevant pension predictors in both countries. Contrary to what previous literature suggested, the duration of full-time employment plays a much less important role.  
-The non-parametric Ñopo decomposition reveals that the extremely gender-specific combination of the observed life course experiences, particularly regarding care work, is the main contributor to the Gender Pension Gap in both countries. Highlighting the relevance of specific life course aspects allows policy makers to employ more targeted policies to prevent the reproduction of gender inequalities over the life course in old age. Furthermore, the results advice to consider life course proxies beyond the years spent in (full-time) employment as well as the extremely gender-specific combination of life course aspects.
-
-[Working paper](https://osf.io/preprints/socarxiv/fbq92){: .btn--research} 
-
-[Video recording of paper presentation, from minute 55.45](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
