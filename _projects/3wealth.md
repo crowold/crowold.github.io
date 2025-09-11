@@ -17,7 +17,7 @@ header:
 
 Which are the most important  life course aspects for wealth inequality in older age? Life course aspects cover the duration in specific states (e.g. the years being married), the order of events (e.g. marriage or divorce before or after childbirth), the timing of events (e.g. first child born at which age of parents) as well as the complete complexity of life courses. We first focus on family life courses and assessed how the relevant features are related to wealth inequalities, focussing particularly on the differences between men and women. 
 
-Next, we also consider work life courses, next to the family dimension, and use the selected life course variables to decompose the Gender Wealth Gap.
+Next, we also consider work life courses besides the family dimension, and use the selected life course variables to decompose the Gender Wealth Gap.
 
 Looking ahead, we are going to include country comparisons to assess to what extent country contexts such as norms and policies shape these mechanisms and include working life courses besides family life courses.
 
@@ -40,6 +40,7 @@ Results: We identified 23 family life-course variables as relevant predictors, w
 Contribution: We extend previous research on the nexus between family demography and wealth stratification by using a novel, data-driven approach that more effectively explores family life-course complexities by considering the ‘entire’ universe of variables that describe such life courses and identifying those life-course variables that are relevant wealth predictors. 
 
 [Published paper](https://www.demographic-research.org/articles/volume/52/22)
+
 [Working paper](https://osf.io/preprints/socarxiv/pucvt){: .btn--research} 
 
 Work in progress
