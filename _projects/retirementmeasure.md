@@ -1,5 +1,5 @@
 ---
-title: "Gender-sensitive retirement measurements"
+title: "Gendered sample biases in elderly research"
 layout: single-portfolio
 permalink: /projects/retirementmeasure/
 collection: projects
@@ -9,8 +9,9 @@ header:
   og_image: "files/goldgirls_housewives_never_retire.png"
 ---
 
-In this research project I review and discuss retirement and sample measurements applied in studies on old-age inequalities and empirically reveal their implications for popular old-age outcomes across contexts. 
+In this research project I review and discuss sample measurements applied in studies on old-age inequalities from a gender lense and empirically reveal their implications for popular old-age outcomes across contexts. 
 
+<img src="/files/goldgirls_housewives_never_retire.png" width="500" height="280" style="display: block; margin: auto; alt: drawing;">
 
 Work in progress
 ======
@@ -23,4 +24,3 @@ Studies using such sample criteria to capture the population of the elderly like
 
 [Working paper](https://osf.io/preprints/socarxiv/4kq5e){: .btn--research} 
 
-<img src="/files/goldgirls_housewives_never_retire.png" width="500" height="280" style="display: block; margin: auto; alt: drawing;">
