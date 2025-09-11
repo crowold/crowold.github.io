@@ -22,7 +22,6 @@ Contribution: We extend previous research on the nexus between family demography
 
 [Download paper here](https://www.demographic-research.org/articles/volume/52/22)
 
-[Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
 
 Recommended citation: Kapelle, N., & Rowold, C. (2025). Uncovering what matters: Family life-course aspects and personal wealth in late working age. Demographic Research, 52, 689-740. 10.4054/DemRes.2025.52.22
 
