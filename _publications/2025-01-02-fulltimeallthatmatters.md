@@ -1,5 +1,5 @@
 ---
-title: "Uncovering what matters: Family life-course aspects and personal wealth in late working age"
+title: "Full-time employment is all that matters? Quantifying the role of relevant and gender-exclusive life-course experiences for gender pension gaps"
 collection: publications
 permalink: /publication/2025-02-fulltimeallthatmatters
 excerpt: '<i>With Nicole Kapelle<i>:

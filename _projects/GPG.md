@@ -24,6 +24,23 @@ The results reveal that, independently of the pension system and methods applied
 Published
 ======
 ------
+
+**Full-time employment is all that matters? Decomposing Gender Pension Gaps based on relevant life course features in Germany & the Netherlands**
+
+> Gender pension gaps (GPGs) represent crucial indicators of gender inequalities over the life course. Despite reaching higher levels, they have received less attention than other gender inequalities, such as gender wage gaps. More generally, research typically focuses on selected sets of life course summary measures, predominantly the employment duration, to explain gender inequalities across the life course. This oversimplifies gender-specific life courses in particular. 
+
+> Taking a life-course perspective and using data from the Survey of Health, Ageing, and Retirement in Europe for the Netherlands and West Germany, I propose an innovative combination of machine learning, sequence analysis, and decomposition techniques, allowing for a new perspective on gender inequalities over the life course. The study disentangles which specific life-course elements are most relevant for pension inequalities and quantifies the role of gender-exclusive life-course experiences for gender disparities. 
+
+> I find that the duration, timing, order of life-course events, and overall life-course complexity matter for pension income inequalities in both pension systems. Specifically, the duration, timing, and order of care work experiences are more crucial pension predictors than the employment duration, which has been the primary focus of previous research. This holds for the GPGs: the largest shares are attributable to gender-exclusive life-course experiences because of the lack of a male counterpart for female engagement in care work, which is poorly rewarded in pension systems. Future research and policymakers will benefit from considering such gender-specific combinations of life-course experiences for the gender pension gap and other inequalities.
+
+[Published article](https://doi.org/10.1093/sf/soaf143){: .btn--research} 
+
+[Working paper](https://osf.io/preprints/socarxiv/fbq92){: .btn--research} 
+
+[Video recording of paper presentation, from minute 55.45](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
+
+------
+
 **Life-course-sensitive analysis of group inequalities: Combining sequence analysis with the Kitagawa-Oaxaca-Blinder decomposition**
 
 <i>With Emanuela Struffolino & Anette Fasang<i>
