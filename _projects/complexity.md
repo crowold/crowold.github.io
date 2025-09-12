@@ -35,15 +35,19 @@ Published
 Work in progress
 ======
 ------
-**Children’s Family Life Course Complexity and Consequences for Educational Outcomes in the UK**
+**Rethinking Children’s Family Complexity: A Multi-Conceptual Approach with Dynamic Sequence Analysis and Fixed Effects Models**
 
 <i>With Martin Gädecke & Zachary Van Winkle<i>
 
->Empirical research has demonstrated a negative association between parental union dissolution or the number of family transitions and children’s educational outcomes. However, there is a tension regarding the most appropriate measures to reflect family complexity, and recent studies call for broader measures.
-We propose more comprehensive measures than those utilized in previous studies. Applying diverse theoretical perspectives to dynamic sequence complexity indices we first conceptualise a multitude of measures, each focusing on a distinct notion of
-family complexity, and explore how family complexity evolves over children’s school career. Secondly, we examine the relationship between family complexity and educational
-outcomes by applying fixed-effects regression models. We utilise the distinct sequence complexity indices as the primary covariate, with the objective of comparing their efficacy with the common measures.
-The result will elucidate whether it is union dissolution  itself that impacts children’s outcomes or whether other facets of family complexity are more important.
+>Objective: The association between a wide range of family complexity indicators and children’s educational outcomes was assessed. 
+Background: Previous research documented a negative impact of disadvantageous family transitions and family instability on children’s educational outcomes. However, there is a theoretical and empirical debate surrounding the most appropriate measure of family complexity during childhood.
+Method: Numerous theoretically conceptualized sequence-based complexity measures are applied to parents’ life history data from the UK Household Longitudinal Study, which were linked to children’s test scores in the National Pupils Dataset. Average within-child change in boys’ and girls’ math and English tests scores following change in mothers’ and fathers’ family complexity were estimated with fixed-effects regressions.  
+Results: Family complexity measures were largely found to be negatively associated with children’s academic performance, however with differences across indicators. The number of transitions as well as the uncertainty and sum of disadvantage indicators were most tightly associated with children’s test scores. In addition, results varied by parents’ and children’s gender. For example, family complexity for fathers was often positively associated with children’s educational outcomes and associations were often stronger for boys compared to girls.
+Conclusion: Findings highlight the importance of theoretically derived measures of family complexity. In this study, measures associated with family instability and parental absence were shown to be most strongly linked with children’s educational outcomes. 
+
+
+[Working paper]( https://doi.org/10.31235/osf.io/g4d2b_v1){: .btn--research} 
+
 
 **Family Environments and Children's Mental Health: A Holistic Examination Across Five Perspectives**
 
