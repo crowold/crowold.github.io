@@ -39,6 +39,8 @@ Published
 
 [Video recording of paper presentation, from minute 55.45](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
 
+[Key takeaways on bsky 🧵](https://bsky.app/profile/crowold.bsky.social/post/3lycxgzxy4k2k)
+
 ------
 
 **Life-course-sensitive analysis of group inequalities: Combining sequence analysis with the Kitagawa-Oaxaca-Blinder decomposition**

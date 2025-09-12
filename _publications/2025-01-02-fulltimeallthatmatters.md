@@ -19,6 +19,9 @@ I find that the duration, timing, order of life-course events, and overall life-
 
 [Video recording of paper presentation](https://www.youtube.com/watch?v=tQ9MEWkMWvs)
 
+[Key takeaways on bsky 🧵](https://bsky.app/profile/crowold.bsky.social/post/3lycxgzxy4k2k)
+
 Recommended citation: Rowold, Carla. 2025. “Full-Time Employment Is All That Matters? Quantifying the Role of Relevant and Gender-Exclusive Life-Course Experiences for Gender Pension Gaps.” Social Forces, September 3, soaf143. https://doi.org/10.1093/sf/soaf143.
 
 
+<img src="/files/goldgirls_housewives_never_retire.png" width="500" height="280" style="display: block; margin: auto; alt: drawing;">
