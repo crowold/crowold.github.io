@@ -1,11 +1,11 @@
 ---
 title: "An accumulation of gender inequalities in old age? Exploring life course- and gender-sensitive approaches for analysing Gender Pension Gaps"
 collection: publications
-permalink: /publication/2022-04-MSA+KOB
+permalink: /publication/2023-12-dissertation
 excerpt: 'Dissertation on which mechanisms Gender Pension Gaps are related to work-family life course patterns or specific aspects of work and family lives'
 date: 2023-12-01
 venue: 'Dissertation'
-paperurl: 'https://journals.sagepub.com/doi/10.1177/00491241231224226'
+paperurl: 'https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd'
 citation: 'Rowold C (2023) An accumulation of gender inequalities in old age? Exploring life course- and gender-sensitive approaches for analysing Gender Pension Gaps. PhD Thesis. University of Oxford. Available at: 10.5287/ora-nrdgbeegq.'
 ---
 Women in Europe receive much less pension income compared to men. Based on the life course perspective and the pertinent gender literature I argue that previous approaches risk concealing complex inequality (re)producing mechanisms that arise over the life course and shape these Gender Pension Gaps (GPG). Particularly, the existing empirical literature on GPGs lacks a multidimensional, gender- and life-course-sensitive analysis by focussing predominantly on the impact of employment. This thesis aims to implement novel methodological approaches to analyse gendered pension income inequalities considering gendered life course complexities and contribute empirically to our understanding of how GPGs unfold.
