@@ -104,7 +104,7 @@ Durch eine geschlechtergerechte Harmonisierung von Wohlfahrtsstaats-, Arbeitsmar
 
 
 
-Für weiteren (wissenschaftlichen) Lesebedarf gibt es in meiner [Dissertation](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd) in Table 2.1 und Table 3.1 Übersichten zu weiterführenden (oft englischsprachigen) Studien zu dem Thema.
+*Für weiteren (wissenschaftlichen) Lesebedarf gibt es in meiner [Dissertation](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd) in Table 2.1 und Table 3.1 Übersichten zu weiterführenden (oft englischsprachigen) Studien zu dem Thema.*
 
 ### Fußnoten:
 
