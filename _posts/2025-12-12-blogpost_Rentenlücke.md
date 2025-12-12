@@ -16,7 +16,8 @@ tags:
 ## Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten
 ### Carla Rowold
 
-Eine PDF-Version des Blogposts [hier](/files/Rowold_2025_RentenreformenRentenlücken.pdf)
+*Eine PDF-Version des Blogposts gibt es [hier](/files/Rowold_2025_RentenreformenRentenlücken.pdf)*
+
 
 Angesichts der aktuellen intensiven Debatten über Rentenreformen fasse ich hier zentrale Punkte zur geschlechtsspezifischen Rentenlücke zusammen, die bei den Reformbemühungen mitbedacht werden sollten. Ich erläutere die grundsätzliche Bedeutung von Geschlechterungleichheiten bei der Rente ebenso wie ihre Relevanz für künftige Generationen und diskutiere ausgewählte Ergebnisse meiner Forschung, die dazu beitragen können, Ungleichheiten im Alter zu verringern.  
 
