@@ -20,6 +20,17 @@ I apply Sequence analysis, decomposition, and feature selection techniques to as
 
 The results reveal that, independently of the pension system and methods applied, the overarching driver of the GPGs is the large amount of unpaid care work that only women performed over their life courses and that is not equivalently rewarded in pension systems compared to other activities. Particularly, typical life courses with strong interdependences between family and work are only experienced by mothers and are highly associated with GPGs. In other words: gendered pension inequality emerges due to an interaction of i) welfare state contexts of the 20th century which incentivised a traditional gendered division of labour and gender inequalities arising therefrom, with ii) pension policies rewarding gendered life courses emerging from it highly unequally nowadays. I conclude that pension policymakers must consider this intertemporal interaction of present pension designs and past welfare state policies for pension reforms if they aim to prevent a severe reproduction of accumulated gender inequalities in old age.
 
+<div style="margin: 30px 0;">
+  <video width="100%" max-width="720px" controls style="display: block; margin: 20px auto;">
+    <source src="/files/videos/final_fna_rowold.mp4" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
+  <p style="font-size: 0.85em; text-align: center; margin-top: 10px; color: #666;">
+    <i>I was fortunate to receive the Research Award for the Dissertation (FNA-Forschungspreis) from the Research Network on Old-Age Provision (FNA) of the German Federal Pension Insurance (Deutsche Rentenversicherung).</i>
+  </p>
+</div>
+
+
 [Dissertation](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd){: .btn--research} 
 
 [Deutsche Zusammenfassung der Dissertation als PDF](/files/Rowold_2024_Gender_Pension_Gaps_Zusammenfassung.pdf)
@@ -69,8 +80,3 @@ In Review
 > How are work-family life courses associated with the Gender Pension Gap (GPG)? Do these mechanisms vary between the gender gap in public compared to private pensions? I assess these questions by applying an innovative combination of the Multichannel Sequence Analysis with the Kitagawa-Blinder-Oaxaca decomposition and linking survey to register data for Germany to decompose GPGs based on work-family life courses. Additionally, I decompose GPGs based on the relative earning positions of individuals over the life course. Differentiating between pension types sheds light on the impact of pension privatization and provides more targeted suggestions for policy makers. The results reveal that gender differences in life course patterns mirroring gender inequalities of current cohorts in labour force (e.g. Gender Wage Gap) drive the GPG in private pensions to a higher extent than the gap in public pensions highlighting the risk of high GPGs in the future.
 
 [Working paper](https://osf.io/preprints/socarxiv/czn74){: .btn--research} 
-
-
-
-
-
