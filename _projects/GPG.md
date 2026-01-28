@@ -21,7 +21,7 @@ I apply Sequence analysis, decomposition, and feature selection techniques to as
 The results reveal that, independently of the pension system and methods applied, the overarching driver of the GPGs is the large amount of unpaid care work that only women performed over their life courses and that is not equivalently rewarded in pension systems compared to other activities. Particularly, typical life courses with strong interdependences between family and work are only experienced by mothers and are highly associated with GPGs. In other words: gendered pension inequality emerges due to an interaction of i) welfare state contexts of the 20th century which incentivised a traditional gendered division of labour and gender inequalities arising therefrom, with ii) pension policies rewarding gendered life courses emerging from it highly unequally nowadays. I conclude that pension policymakers must consider this intertemporal interaction of present pension designs and past welfare state policies for pension reforms if they aim to prevent a severe reproduction of accumulated gender inequalities in old age.
 
 <div style="margin: 30px 0;">
-  <video width="100%" max-width="720px" controls style="display: block; margin: 20px auto;">
+  <video width="50%" max-width="720px" controls style="display: block; margin: 20px auto;">
     <source src="/files/videos/final_fna_rowold.mp4" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
