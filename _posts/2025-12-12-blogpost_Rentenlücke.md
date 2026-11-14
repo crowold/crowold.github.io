@@ -16,10 +16,19 @@ tags:
 ## Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten
 ### Carla Rowold
 
-*Eine PDF-Version des Blogposts gibt es [hier](/files/Rowold_2025_RentenreformenRentenlücken.pdf)*
+*Eine PDF-Version des Blogposts gibt es [hier](/files/Rowold_2025_RentenreformenRentenlücken.pdf). Siehe auch meinen Gastbeitrag [„Was es für eine geschlechtergerechte Rentenpolitik braucht“](https://table.media/berlin/tablestandpunkt/was-es-fuer-eine-geschlechtergerechte-rentenpolitik-braucht) bei Table.Briefings (2026).*
 
 
 Angesichts der aktuellen intensiven Debatten über Rentenreformen fasse ich hier zentrale Punkte zur geschlechtsspezifischen Rentenlücke zusammen, die bei den Reformbemühungen mitbedacht werden sollten. Ich erläutere die grundsätzliche Bedeutung von Geschlechterungleichheiten bei der Rente ebenso wie ihre Relevanz für künftige Generationen und diskutiere ausgewählte Ergebnisse meiner Forschung, die dazu beitragen können, Ungleichheiten im Alter zu verringern.  
+
+Die zentralen Ergebnisse meiner Dissertation fasse ich auch in diesem Video zusammen, das anlässlich des [FNA-Forschungspreises 2025](https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold) der Deutschen Rentenversicherung entstanden ist:
+
+<div class="video-wrap">
+  <video controls preload="metadata" playsinline>
+    <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
+    Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
+  </video>
+</div>
 
 
 ## Was bedeutet die Rentenlücke und wie hoch fällt sie aus?
@@ -139,7 +148,7 @@ Rowold, Carla. 2022. “Der Zusammenhang von Familien- und Arbeitsbiografien und
 
 Rowold, Carla. 2023. “An Accumulation of Gender Inequalities in Old Age? Exploring Life Course- and Gender-Sensitive Approaches for Analysing Gender Pension Gaps.” Http://purl.org/dc/dcmitype/Text, University of Oxford. https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd.
 
-Rowold, Carla. 2024. “Differences in Gender Pension Gaps in Public and Private Pensions in West Germany: What Role Do Work-Family Life Courses Play?” WP-2024-015. 0 ed. Preprint, MPIDR Working Papers, July. https://doi.org/10.4054/MPIDR-WP-2024-015.
+Rowold, Carla. 2024. “Differences in Gender Pension Gaps in Public and Private Pensions in West Germany: What Role Do Work-Family Life Courses Play?” WP-2024-015. 0 ed. Preprint, MPIDR Working Papers, July. https://doi.org/10.4054/MPIDR-WP-2024-015. *Update: Inzwischen erschienen als Rowold, Carla. 2026. “Differences in Gender Pension Gaps in Public and Private Pensions in West Germany: An Analysis Sensitive to Interdependencies across the Life Course.” Work, Employment and Society. https://doi.org/10.1177/09500170261482093.*
 
 Rowold, Carla, and Zachary Van Winkle. 2023. “Cohort Change in Family Life Course Complexity of Adults and Children.” In The Demography of Transforming Families, edited by Robert Schoen. The Springer Series on Demographic Methods and Population Analysis. Springer International Publishing. https://doi.org/10.1007/978-3-031-29666-6_10.
 
