@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% assign author = site.author %}
+<div id="main" role="main" class="home-wrap">
+  <div class="home-hero">
+    <div class="home-hero__card">
+      <img src="{{ '/images/carla_portrait.jpg' | relative_url }}" alt="Portrait of {{ author.name }}">
+      <h1>{{ author.name }}</h1>
+      <p class="home-hero__role">{{ page.role }}</p>
+      <div class="home-hero__links">
+        <a href="mailto:c.rowold@hertie-school.org"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
+        {% if author.bluesky %}<a href="{{ author.bluesky }}"><span style="color:#1185fe">{% include icons/bluesky.svg %}</span> Bluesky</a>{% endif %}
+        {% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true" style="color:#007bb6"></i> LinkedIn</a>{% endif %}
+        {% if author.googlescholar %}<a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a>{% endif %}
+        {% if author.orcid %}<a href="{{ author.orcid }}"><i class="ai ai-orcid" aria-hidden="true" style="color:#a6ce39"></i> ORCID</a>{% endif %}
+        {% if author.github %}<a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>{% endif %}
+        {% if author.researchgate %}<a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a>{% endif %}
+        <a href="{{ '/cv/' | relative_url }}"><i class="fas fa-file-alt" aria-hidden="true"></i> CV</a>
+      </div>
+    </div>
+
+    <div class="home-hero__bio">
+      {{ content }}
+    </div>
+  </div>
+
+  <section class="home-recent">
+    <h2>Recent publications</h2>
+    <ol class="pub-list">
+      {% for p in site.data.publications.peer_reviewed limit: 3 %}{% include pub-entry.html pub=p %}{% endfor %}
+    </ol>
+    <p><a class="see-all" href="{{ '/publications/' | relative_url }}">→ See all publications</a></p>
+  </section>
+</div>
