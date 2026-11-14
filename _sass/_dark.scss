@@ -1,0 +1,125 @@
+/* ==========================================================================
+   Dark mode (default). Light mode is the original theme.
+   The theme is set on <html data-theme="dark|light"> by a small script in
+   _includes/head/custom.html and switched with the button in the top bar.
+   ========================================================================== */
+
+$dm-bg:          #1b1d22;
+$dm-bg-raised:   #24272d;
+$dm-bg-footer:   #15161a;
+$dm-text:        #d5d8dc;
+$dm-text-strong: #eceef0;
+$dm-muted:       #9aa1a8;
+$dm-border:      #33373e;
+$dm-link:        #6cc6e0;
+$dm-link-hover:  #a3dcec;
+
+html[data-theme="dark"] {
+  background-color: $dm-bg;
+  color-scheme: dark;
+
+  body { background-color: $dm-bg; color: $dm-text; }
+
+  h1, h2, h3, h4, h5, h6, strong, b { color: $dm-text-strong; }
+
+  a { color: $dm-link; }
+  a:hover { color: $dm-link-hover; }
+
+  hr { border-top-color: $dm-border; }
+  u, ins { border-bottom-color: $dm-text; }
+  blockquote { border-left-color: #5b6168; }
+
+  code, pre, div.highlighter-rouge, figure.highlight {
+    background: $dm-bg-raised;
+    border-color: $dm-border;
+  }
+
+  table { border-color: $dm-border; }
+  thead { background-color: $dm-bg-raised; border-bottom-color: $dm-border; }
+  th, td { border-color: $dm-border; }
+
+  /* top bar */
+  .masthead { background: $dm-bg; border-bottom-color: $dm-border; }
+  .greedy-nav { background: $dm-bg; }
+  .greedy-nav a { color: $dm-muted; }
+  .greedy-nav a:hover { color: $dm-text-strong; }
+  .greedy-nav .visible-links a:before { background: #4a5058; }
+  .greedy-nav .hidden-links {
+    background: $dm-bg-raised;
+    border-color: $dm-border;
+    &:before { border-color: $dm-border transparent; }
+    &:after  { border-color: $dm-bg-raised transparent; }
+    li { border-bottom-color: $dm-border; }
+    a:hover { background: #2e3238; color: $dm-text-strong; }
+  }
+
+  /* sidebar */
+  .author__avatar img { border-color: $dm-border; }
+  .author__urls { background: $dm-bg-raised; border-color: $dm-border; }
+  .author__urls:after { border-color: $dm-bg-raised transparent; }
+  .author__urls a { color: $dm-text; }
+  .social-icons .fa, .social-icons .fa-github, .social-icons .fa-github-alt,
+  .social-icons .fa-github-square { color: $dm-text; }
+  .btn--inverse { background-color: $dm-bg-raised; color: $dm-text !important; border-color: $dm-border !important; }
+
+  /* page content */
+  .page__content h2 { border-bottom-color: $dm-border; }
+  .page__meta, .page__date, .page__taxonomy, .archive__item-excerpt { color: $dm-muted; }
+  .page__taxonomy-item { border-color: $dm-border; }
+  .page__share, .page__related, .page__comments-title { border-top-color: $dm-border; }
+  .page__related a, .archive__item-title a { color: $dm-text-strong; }
+  .archive__subtitle { color: $dm-muted; border-bottom-color: $dm-border; }
+  .pagination--pager { color: $dm-muted; border-color: $dm-border; }
+  .pagination--pager.disabled { color: #4a5058; }
+  .notice, .notice--info, .notice--primary { background-color: $dm-bg-raised; }
+
+  /* footer */
+  .page__footer { background-color: $dm-bg-footer; border-top-color: $dm-border; color: $dm-muted; }
+  .page__footer .fas, .page__footer .fab, .page__footer .far, .page__footer .fal { color: $dm-muted; }
+
+  /* custom components */
+  .project-paper, .home-recent { border-top-color: $dm-border; }
+  .pub-list .pub-num, .pub-list .pub-awards,
+  .home-hero__card .home-hero__role, .video-wrap .video-caption,
+  .engagement-list .when { color: $dm-muted; }
+  .pub-list a.pub-title { border-bottom-color: #5b6168; }
+  .pub-list a.pub-title:hover { color: $dm-link-hover; border-bottom-color: $dm-link-hover; }
+  .home-hero__links a { border-color: $dm-border; color: $dm-text; }
+  .home-hero__links a:hover { border-color: $dm-muted; color: $dm-text-strong; }
+
+  /* white-background figures stay readable */
+  .page__content img { background-color: #fff; }
+  .home-hero__card img, .author__avatar img { background-color: transparent; }
+}
+
+/* ---- Theme switch in the top bar ---------------------------------------- */
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+
+  #site-nav { flex: 1 1 auto; min-width: 0; }
+}
+
+.theme-toggle {
+  flex: 0 0 auto;
+  margin-left: 0.75rem;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  background: transparent;
+  color: $masthead-link-color;
+  font-size: $type-size-7;
+  line-height: 1.4;
+  white-space: nowrap;
+  cursor: pointer;
+
+  &:hover { color: #000; border-color: $gray; }
+}
+
+html[data-theme="dark"] .theme-toggle {
+  border-color: $dm-border;
+  color: $dm-muted;
+
+  &:hover { color: $dm-text-strong; border-color: $dm-muted; }
+}

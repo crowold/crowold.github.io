@@ -21,16 +21,6 @@ tags:
 
 Angesichts der aktuellen intensiven Debatten über Rentenreformen fasse ich hier zentrale Punkte zur geschlechtsspezifischen Rentenlücke zusammen, die bei den Reformbemühungen mitbedacht werden sollten. Ich erläutere die grundsätzliche Bedeutung von Geschlechterungleichheiten bei der Rente ebenso wie ihre Relevanz für künftige Generationen und diskutiere ausgewählte Ergebnisse meiner Forschung, die dazu beitragen können, Ungleichheiten im Alter zu verringern.  
 
-Für meine Dissertation wurde mir der [FNA-Forschungspreis 2025](https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold) der Deutschen Rentenversicherung verliehen – hier ein kurzes Video dazu:
-
-<div class="video-wrap">
-  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
-    <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
-    Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
-  </video>
-</div>
-
-
 ## Was bedeutet die Rentenlücke und wie hoch fällt sie aus?
 
 Die Rentenlücke (engl: Gender Pension Gap) gibt die Differenz des durchschnittlichen Renteneinkommen der Männer im Vergleich zum Renteneinkommen der Frauen an. Frauen erhalten in den meisten Ländern durchschnittlich deutlich weniger Renteneinkommen als Männer, wobei Deutschland dabei eine vergleichsweise hohe Rentenlücke aufzuweisen hat (Hammerschmid and Rowold 2019). Beispielsweise erhalten Frauen in Westdeutschland nach meinen Berechnungen durchschnittlich 61 % weniger Renteneinkommen als Männer, in Italien 53% und in den Niederlanden 46% (Rowold 2023). In absoluten Zahlen bedeutet dies, dass Frauen in Westdeutschland im Schnitt mit 13.449 € weniger Rente jährlich auskommen müssen. Der Gender Pension Gap in Ostdeutschland beläuft sich nach meinen Berechnung auf circa 24% (Rowold 2022).  Das Niveau dieser Rentenlücke übersteigt in den meisten Ländern das Niveau der weitaus bekannteren Gender Wage Gap (Hammerschmid and Rowold 2019). Im Vergleich zur Rentenlücke von 61% in Westdeutschland beträgt die Lohnlücke (‚Gender Wage Gap‘, das Äquivalent zur Rentenlücke, aber für den Erwerbslohn berechnet) in Westdeutschland zurzeit 17% (Destatis 2025). 
@@ -115,6 +105,17 @@ Durch eine geschlechtergerechte Harmonisierung von Wohlfahrtsstaats-, Arbeitsmar
 
 
 *Für weiteren (wissenschaftlichen) Lesebedarf gibt es in meiner [Dissertation](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd) in Table 2.1 und Table 3.1 Übersichten zu weiterführenden (oft englischsprachigen) Studien zu dem Thema.*
+
+## Video
+
+Für meine Dissertation wurde mir der [FNA-Forschungspreis 2025](https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold) der Deutschen Rentenversicherung verliehen – hier ein kurzes Video dazu:
+
+<div class="video-wrap">
+  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
+    <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
+    Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
+  </video>
+</div>
 
 ### Fußnoten:
 

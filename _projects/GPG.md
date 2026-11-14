@@ -20,6 +20,8 @@ I apply Sequence analysis, decomposition, and feature selection techniques to as
 
 The results reveal that, independently of the pension system and methods applied, the overarching driver of the GPGs is the large amount of unpaid care work that only women performed over their life courses and that is not equivalently rewarded in pension systems compared to other activities. Particularly, typical life courses with strong interdependences between family and work are only experienced by mothers and are highly associated with GPGs. In other words: gendered pension inequality emerges due to an interaction of i) welfare state contexts of the 20th century which incentivised a traditional gendered division of labour and gender inequalities arising therefrom, with ii) pension policies rewarding gendered life courses emerging from it highly unequally nowadays. I conclude that pension policymakers must consider this intertemporal interaction of present pension designs and past welfare state policies for pension reforms if they aim to prevent a severe reproduction of accumulated gender inequalities in old age.
 
+✍️ A non-technical summary of this research and its policy implications (in German) is available in my blog post [Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten](/posts/2025/12/blogpost_Rentenlücke/).
+
 <div class="project-paper" id="dissertation" markdown="1">
 
 ### Dissertation & awards
@@ -37,8 +39,6 @@ The results reveal that, independently of the pension system and methods applied
   </video>
   <p class="video-caption">Video from the award of the FNA research prize 2025 of the German Pension Insurance (in German). More on the award on the <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA website</a>.</p>
 </div>
-
-A German summary of the main findings and their policy implications is available as a [blog post](/posts/2025/12/blogpost_Rentenlücke/) and as a [PDF summary of the dissertation](/files/Rowold_2024_Gender_Pension_Gaps_Zusammenfassung.pdf).
 
 </div>
 
