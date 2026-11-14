@@ -89,6 +89,8 @@ html[data-theme="dark"] {
   .pub-list a.pub-title { border-bottom-color: #5b6168; }
   .pub-list a.pub-title:hover { color: $dm-link-hover; border-bottom-color: $dm-link-hover; }
   .home-hero__links a { border-color: $dm-border; color: $dm-text; }
+  .post-toc, .footnotes-block { border-color: $dm-border; }
+  .key-points { background: rgba($dm-link, 0.08); border-left-color: $dm-link; }
   .home-hero__links a:hover { border-color: $dm-muted; color: $dm-text-strong; }
 
   /* white-background figures stay readable */

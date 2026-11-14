@@ -1,7 +1,7 @@
 ---
-title: 'Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten
-'
+title: 'Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten'
 date: 2025-12-12
+read_time: false
 permalink: /posts/2025/12/blogpost_Rentenlücke/
 tags:
   - Rentenlücke
@@ -13,19 +13,36 @@ tags:
 
 
 
-## Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten
-### Carla Rowold
-
 *Eine PDF-Version des Blogposts gibt es [hier](/files/Rowold_2025_RentenreformenRentenlücken.pdf). Siehe auch meinen Gastbeitrag [„Was es für eine geschlechtergerechte Rentenpolitik braucht“](https://table.media/berlin/tablestandpunkt/was-es-fuer-eine-geschlechtergerechte-rentenpolitik-braucht) bei Table.Briefings (2026).*
 
 
 Angesichts der aktuellen intensiven Debatten über Rentenreformen fasse ich hier zentrale Punkte zur geschlechtsspezifischen Rentenlücke zusammen, die bei den Reformbemühungen mitbedacht werden sollten. Ich erläutere die grundsätzliche Bedeutung von Geschlechterungleichheiten bei der Rente ebenso wie ihre Relevanz für künftige Generationen und diskutiere ausgewählte Ergebnisse meiner Forschung, die dazu beitragen können, Ungleichheiten im Alter zu verringern.  
 
+<div class="key-points" markdown="1">
+
+#### Das Wichtigste in Kürze
+{:.no_toc}
+
+- Frauen in Westdeutschland erhalten im Schnitt **61 % weniger eigenes Renteneinkommen** als Männer – die Rentenlücke ist damit weit größer als die Lohnlücke (17 %).
+- Die Lücke entsteht nicht allein durch weniger Vollzeitjahre von Frauen, sondern vor allem, weil **Frauen den Großteil der unbezahlten Sorgearbeit tragen** und diese im Rentensystem nur gering bewertet wird.
+- **Private Renten** (betrieblich und privat) reproduzieren Einkommensungleichheiten deutlich stärker als die gesetzliche Rente – die fortschreitende Privatisierung birgt daher besondere Risiken für Frauen.
+- Ansatzpunkte: **geschlechtergerechte Lebensverläufe ermöglichen** (z. B. Kinderbetreuung, Elternzeit für Väter, Reform des Ehegattensplittings) und für heutige Rentnerinnen **Sorgearbeit stärker anerkennen**, etwa durch eine Aufteilung von Rentenansprüchen auf Paarebene.
+
+</div>
+
+<details class="post-toc" markdown="1">
+<summary>Inhalt</summary>
+
+* Inhaltsverzeichnis
+{:toc}
+
+</details>
+
 ## Was bedeutet die Rentenlücke und wie hoch fällt sie aus?
 
 Die Rentenlücke (engl: Gender Pension Gap) gibt die Differenz des durchschnittlichen Renteneinkommen der Männer im Vergleich zum Renteneinkommen der Frauen an. Frauen erhalten in den meisten Ländern durchschnittlich deutlich weniger Renteneinkommen als Männer, wobei Deutschland dabei eine vergleichsweise hohe Rentenlücke aufzuweisen hat (Hammerschmid and Rowold 2019). Beispielsweise erhalten Frauen in Westdeutschland nach meinen Berechnungen durchschnittlich 61 % weniger Renteneinkommen als Männer, in Italien 53% und in den Niederlanden 46% (Rowold 2023). In absoluten Zahlen bedeutet dies, dass Frauen in Westdeutschland im Schnitt mit 13.449 € weniger Rente jährlich auskommen müssen. Der Gender Pension Gap in Ostdeutschland beläuft sich nach meinen Berechnung auf circa 24% (Rowold 2022).  Das Niveau dieser Rentenlücke übersteigt in den meisten Ländern das Niveau der weitaus bekannteren Gender Wage Gap (Hammerschmid and Rowold 2019). Im Vergleich zur Rentenlücke von 61% in Westdeutschland beträgt die Lohnlücke (‚Gender Wage Gap‘, das Äquivalent zur Rentenlücke, aber für den Erwerbslohn berechnet) in Westdeutschland zurzeit 17% (Destatis 2025). 
 
-Die Höhe der errechneten Rentenlücken hängt von vielen verschiedenen Definitionen ab.[[1]](#1) Ich nutze in meinen Analysen beispielsweise die Summer der gesetzlichen, betrieblichen und privaten Renteneinkommen (ohne Berücksichtigung der Hinterbliebenenrente). Darüber hinaus sind diese Rentenlücken und meine bisherigen Analysen dazu auf Basis von Individuen über einem Alter von 64 Jahren berechnet und umfassen die Geburtskohorten 1911-1950. Da Rentenlücken auf Basis gesamter Biografien vor dem Renteneintritt entstehen, und geschlechtsspezifische Ungleichheiten einem Wandel unterliegen ist, zu berücksichtigen, dass die Ergebnisse primär für ältere Kohorten zutreffen, während für jüngere Generationen weiterführende Analysen notwendig sind. Ich diskutiere jedoch die Relevanz des Themas für künftige Generationen von Renter*innen im Abschnitt ‚Gender Pension Gaps – kein Problem für zukünftige Kohorten‘.
+Die Höhe der errechneten Rentenlücken hängt von vielen verschiedenen Definitionen ab.<sup class="fn-ref"><a href="#fn1" id="fnref1">1</a></sup> Ich nutze in meinen Analysen beispielsweise die Summer der gesetzlichen, betrieblichen und privaten Renteneinkommen (ohne Berücksichtigung der Hinterbliebenenrente). Darüber hinaus sind diese Rentenlücken und meine bisherigen Analysen dazu auf Basis von Individuen über einem Alter von 64 Jahren berechnet und umfassen die Geburtskohorten 1911-1950. Da Rentenlücken auf Basis gesamter Biografien vor dem Renteneintritt entstehen, und geschlechtsspezifische Ungleichheiten einem Wandel unterliegen ist, zu berücksichtigen, dass die Ergebnisse primär für ältere Kohorten zutreffen, während für jüngere Generationen weiterführende Analysen notwendig sind. Ich diskutiere jedoch die Relevanz des Themas für künftige Generationen von Renter*innen im Abschnitt ‚Gender Pension Gaps – kein Problem für zukünftige Kohorten‘.
 
 
 ## Warum die geschlechtsspezifische Rentenlücke relevant ist
@@ -58,7 +75,7 @@ Dennoch wird ersichtlich, dass ein Großteil der Mütter nach dem Wiedereinstieg
 
 ## Privatisierung der Rente und Geschlechterungleichheiten
 
-Private Renten (die Summe aus betrieblicher und privater Vorsorge) reproduzieren geschlechtsspezifische Einkommensungleichheiten während des Erwerbslebens in Deutschland viel stärker als die gesetzliche Rente. Die fehlende Beteiligung von Müttern an gut entlohnten Vollzeiterwerbstätigkeitskarrieren erklärt 22 % der Rentenlücken bei privaten Renten, das ist fünfmal so hoch wie bei gesetzlichen Renten (Rowold 2024, siehe Figure 3). Teil des Grundes, warum die privaten Renten nachteiliger für Frauen sind, ist, dass, zumindest in der heutigen Renter*innengeneration, viel weniger Frauen einen Zugang zur betrieblichen oder privaten Vorsorge haben (43% der Männer in Vergleich zu 24% der Frauen, siehe Table 4.3). 55% dieser sogenannten Gender Coverage Gap sind auf die Geschlechterungleichheiten in den Erwerbsbiografien von Eltern zurückzuführen (Sorgearbeitsbiografien ausschließlich bei Frauen, und überproportionaler Anteil von Männern im Vergleich zu Frauen, die ihre Elternschaft mit Vollzeiterwerbstätigkeit verbinden können).[^2]  
+Private Renten (die Summe aus betrieblicher und privater Vorsorge) reproduzieren geschlechtsspezifische Einkommensungleichheiten während des Erwerbslebens in Deutschland viel stärker als die gesetzliche Rente. Die fehlende Beteiligung von Müttern an gut entlohnten Vollzeiterwerbstätigkeitskarrieren erklärt 22 % der Rentenlücken bei privaten Renten, das ist fünfmal so hoch wie bei gesetzlichen Renten (Rowold 2024, siehe Figure 3). Teil des Grundes, warum die privaten Renten nachteiliger für Frauen sind, ist, dass, zumindest in der heutigen Renter*innengeneration, viel weniger Frauen einen Zugang zur betrieblichen oder privaten Vorsorge haben (43% der Männer in Vergleich zu 24% der Frauen, siehe Table 4.3). 55% dieser sogenannten Gender Coverage Gap sind auf die Geschlechterungleichheiten in den Erwerbsbiografien von Eltern zurückzuführen (Sorgearbeitsbiografien ausschließlich bei Frauen, und überproportionaler Anteil von Männern im Vergleich zu Frauen, die ihre Elternschaft mit Vollzeiterwerbstätigkeit verbinden können).<sup class="fn-ref"><a href="#fn2" id="fnref2">2</a></sup>  
 
 Auch wenn private Renten bestehende Einkommensunterschiede zwischen den Geschlechtern stärker als die gesetzliche Rente reproduzieren, kann im Kontext der fortschreitenden Privatisierung der Altersvorsorge in Deutschland eine verpflichtende und flächendeckende Einbeziehung in diese Vorsorgeformen als mögliche Maßnahme zur Reduktion von Zugangsungleichheiten erwogen werden (S. 203ff. & 308 in der Dissertation). Eine solche Reform würde zwar keine Geschlechtergleichstellung bei privaten Renten bewirken, könnte aber zumindest einen Teil der strukturellen Geschlechterungleichheit adressieren, nämlich den bislang ungleichen Zugang zu diesen Vorsorgeformen. Dennoch müsste die Politik bei einem solchen Vorhaben berücksichtigen, dass private Renten bestehende Einkommensunterschiede zwischen den Geschlechtern, und mit hoher Wahrscheinlichkeit auch zwischen anderen sozialen Gruppen, stärker als die gesetzliche Rente reproduzieren (siehe Table 1 und Figure 3 [hier](https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd)). Entsprechend wären zum einen deutlich stärkere und wirksamere Maßnahmen zur Reduktion geschlechtsspezifischer Lohn- und Einkommensunterschiede im Erwerbsverlauf erforderlich. Zum anderen könnten umverteilende Elemente in die betriebliche oder staatlich geförderte private Vorsorge eingebunden werden, welche die Reproduktion von Geschlechterungleichheiten, bspw. beim Einkommen, abschwächen. 
 
@@ -117,16 +134,18 @@ Für meine Dissertation wurde mir der [FNA-Forschungspreis 2025](https://www.fna
   </video>
 </div>
 
-### Fußnoten:
+<div class="footnotes-block">
+<h3>Fußnoten</h3>
+<ol>
+<li id="fn1">Für die Berechnung wird die Summe der gesetzlichen, betrieblichen und privaten Renten genutzt, abzüglich der Hinterbliebenenrente (siehe Diskussion Rowold 2023, 46). Das Sample enthält Frauen und Männer ab 65 im Survey of Health, Ageing and Retirement (Geburtskohorten 1911-1950, Median  1940), die nicht mehr aktiv im Erwerbsleben sind, und einen Lohn erhalten (Rowold 2023, 71). Männer und Frauen in der Stichprobe, die keine Rente erhalten, werden mit einem Renteneinkommen von 0 Euro mit aufgenommen, um den Gender Coverage Gap mit aufzunehmen, und damit die komplette Ungleichheit im Renteneinkommen abzubilden (Zugang zur Rente und Höhe des Renteneinkommens, siehe Kapitel 2.1.3, und zusammenfassend S. 50ff.) (Rowold 2023, 50ff.). Insbesondere die Entscheidung, Hinterbliebenenrenten auszuschließen (besonders relevant in Deutschland) und Individuen ab dem Alter 65 ohne Renteneinkommen mit einer Rente von 0Euro mit einzuschließen (besonders relevant in Italien) führen eher zu höheren Rentenlücken. <a href="#fnref1" class="fn-back" aria-label="Zurück zum Text">↩</a></li>
+<li id="fn2">Insbesondere letzteres sollte mit einer größeren Stichprobe überprüft werden. Zudem ist festzuhalten, dass auch dieses Ergebnis eine Momentaufnehme für die Geburtskohorten 1920-1950 ist, da die Verbreitung der betrieblichen und privaten Altersversorgung für jüngere Generationen zugenommen hat. Eine detaillierte Beobachtung des (ggbf ungleichen) Zuganges zur betrieblichen und privaten Altersversorgung nach verschiedenen Gruppen, neben Geschlecht beispielsweise auch Bildungsabschlüssen, Einkommenslevel und Migrationshintergrund, bleibt daher sehr relevant. <a href="#fnref2" class="fn-back" aria-label="Zurück zum Text">↩</a></li>
+</ol>
+</div>
 
-<a id="1">[1]</a>
-[1] Für die Berechnung wird die Summe der gesetzlichen, betrieblichen und privaten Renten genutzt, abzüglich der Hinterbliebenenrente (siehe Diskussion Rowold 2023, 46). Das Sample enthält Frauen und Männer ab 65 im Survey of Health, Ageing and Retirement (Geburtskohorten 1911-1950, Median  1940), die nicht mehr aktiv im Erwerbsleben sind, und einen Lohn erhalten (Rowold 2023, 71). Männer und Frauen in der Stichprobe, die keine Rente erhalten, werden mit einem Renteneinkommen von 0 Euro mit aufgenommen, um den Gender Coverage Gap mit aufzunehmen, und damit die komplette Ungleichheit im Renteneinkommen abzubilden (Zugang zur Rente und Höhe des Renteneinkommens, siehe Kapitel 2.1.3, und zusammenfassend S. 50ff.) (Rowold 2023, 50ff.). Insbesondere die Entscheidung, Hinterbliebenenrenten auszuschließen (besonders relevant in Deutschland) und Individuen ab dem Alter 65 ohne Renteneinkommen mit einer Rente von 0Euro mit einzuschließen (besonders relevant in Italien) führen eher zu höheren Rentenlücken. 
+## Referenzen
 
-<a id="2">[2]</a>
-[2] Insbesondere letzteres sollte mit einer größeren Stichprobe überprüft werden. Zudem ist festzuhalten, dass auch dieses Ergebnis eine Momentaufnehme für die Geburtskohorten 1920-1950 ist, da die Verbreitung der betrieblichen und privaten Altersversorgung für jüngere Generationen zugenommen hat. Eine detaillierte Beobachtung des (ggbf ungleichen) Zuganges zur betrieblichen und privaten Altersversorgung nach verschiedenen Gruppen, neben Geschlecht beispielsweise auch Bildungsabschlüssen, Einkommenslevel und Migrationshintergrund, bleibt daher sehr relevant. 
+<div class="references" markdown="1">
 
-
-## Referenzen 
 Ahonen, Kati, and Susan Kuivalainen. 2024. “Gender Differences in Old-Age Poverty in 14 EU Countries: Exploring the Role of Household Structure.” International Review of Economics, ahead of print, April 17. https://doi.org/10.1007/s12232-024-00455-w.
 
 Bach, Stefan, Björn Fischer, Peter W. Haan, and Katharina Wrohlich. 2020. “Reform des Ehegattensplittings: Realsplitting mit niedrigem Übertragungsbetrag ist ein guter Kompromiss.” DIW Wochenbericht 87 (41): 785–94. https://doi.org/10.18723/diw_wb:2020-41-1.
@@ -161,3 +180,4 @@ Van Winkle, Zachary, and Anette Fasang. 2021. “The Complexity of Employment an
 
 WSI GenderDatenPortal. 2025. “Teilzeitquoten der abhängig Beschäftigten 1991–2023.” Teilzeitquoten der abhängig Beschäftigten 1991–2023. https://www.wsi.de/de/zeit-14621-teilzeitquoten-der-abhaengig-beschaeftigten-19912017-14748.htm.
 
+</div>

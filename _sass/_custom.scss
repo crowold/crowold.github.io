@@ -213,3 +213,56 @@
     font-variant-numeric: tabular-nums;
   }
 }
+
+/* ---- Blog posts --------------------------------------------------------- */
+
+.key-points {
+  margin: 1.5em 0 2em;
+  padding: 1em 1.3em 0.4em;
+  border-left: 4px solid $info-color;
+  border-radius: 4px;
+  background: rgba($info-color, 0.08);
+
+  h4 { margin-top: 0; font-size: $type-size-5; text-transform: uppercase; letter-spacing: 0.04em; }
+  li { margin-bottom: 0.6em; }
+}
+
+.post-toc {
+  margin: 0 0 2em;
+  padding: 0.6em 1em;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  font-size: $type-size-6;
+
+  summary { cursor: pointer; font-weight: bold; }
+  ul { margin: 0.6em 0 0.2em; }
+  li { margin-bottom: 0.25em; }
+  a { text-decoration: none; }
+}
+
+.fn-ref a { text-decoration: none; font-weight: bold; padding: 0 0.1em; }
+
+.footnotes-block {
+  margin-top: 2.5em;
+  padding-top: 1em;
+  border-top: 1px solid $border-color;
+  font-size: $type-size-6;
+
+  h3 { margin-top: 0; }
+  li { margin-bottom: 0.8em; }
+  .fn-back { text-decoration: none; }
+}
+
+.references p {
+  font-size: $type-size-6;
+  margin-bottom: 0.7em;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+  overflow-wrap: anywhere;
+}
+
+.btn--bluesky {
+  background-color: #1185fe;
+  &:hover { background-color: #0a6ad0; }
+  .icon-bluesky { vertical-align: -0.12em; }
+}
