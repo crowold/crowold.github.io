@@ -55,7 +55,11 @@ html[data-theme="dark"] {
 
   /* sidebar */
   .author__avatar img { border-color: $dm-border; }
-  .author__urls { background: $dm-bg-raised; border-color: $dm-border; }
+  .author__urls {
+    background: $dm-bg-raised;
+    border-color: $dm-border;
+    @include breakpoint($large) { background: transparent; }
+  }
   .author__urls:after { border-color: $dm-bg-raised transparent; }
   .author__urls a { color: $dm-text; }
   .social-icons .fa, .social-icons .fa-github, .social-icons .fa-github-alt,
@@ -103,8 +107,8 @@ html[data-theme="dark"] {
 
 .theme-toggle {
   flex: 0 0 auto;
-  margin-left: 0.75rem;
-  padding: 0.3rem 0.6rem;
+  margin-left: 0.5rem;
+  padding: 0.2rem 0.55rem;
   border: 1px solid $border-color;
   border-radius: 999px;
   background: transparent;

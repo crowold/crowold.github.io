@@ -28,7 +28,8 @@
     if (!btn) return;
     function label() {
       var dark = document.documentElement.getAttribute('data-theme') !== 'light';
-      btn.textContent = dark ? '☀ Light mode' : '☾ Dark mode';
+      btn.textContent = dark ? '☀ Light' : '☾ Dark';
+      btn.title = dark ? 'Switch to light mode' : 'Switch to dark mode';
     }
     btn.addEventListener('click', function () {
       var next = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
