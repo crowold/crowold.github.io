@@ -11,14 +11,14 @@ redirect_from:
 *Hier sammle ich Beiträge für Politik, Praxis und eine breitere Öffentlichkeit – überwiegend auf Deutsch.*
 *This page collects contributions for policy, practice and a wider audience – mostly in German.*
 
-## Video: Rentenlücken und Lebensverläufe
+## Video: FNA-Forschungspreis 2025
 
 <div class="video-wrap">
-  <video controls preload="metadata" playsinline>
+  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
     <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
     Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
   </video>
-  <p class="video-caption">Video zu meiner Dissertation anlässlich des <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA-Forschungspreises 2025</a> der Deutschen Rentenversicherung.</p>
+  <p class="video-caption">Video zur Verleihung des <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA-Forschungspreises 2025</a> der Deutschen Rentenversicherung.</p>
 </div>
 
 ## Zusammenfassungen meiner Forschung

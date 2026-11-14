@@ -31,11 +31,11 @@ The results reveal that, independently of the pension system and methods applied
 - **2024:** Final nominee for the Netspar Thesis Award
 
 <div class="video-wrap">
-  <video controls preload="metadata" playsinline>
+  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
     <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
     Your browser does not support embedded videos. <a href="/files/videos/final_fna_rowold.mp4">Download the video</a>.
   </video>
-  <p class="video-caption">Video on my dissertation for the FNA research award of the German Pension Insurance (in German). More on the award on the <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA website</a>.</p>
+  <p class="video-caption">Video from the award of the FNA research prize 2025 of the German Pension Insurance (in German). More on the award on the <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA website</a>.</p>
 </div>
 
 A German summary of the main findings and their policy implications is available as a [blog post](/posts/2025/12/blogpost_Rentenlücke/) and as a [PDF summary of the dissertation](/files/Rowold_2024_Gender_Pension_Gaps_Zusammenfassung.pdf).

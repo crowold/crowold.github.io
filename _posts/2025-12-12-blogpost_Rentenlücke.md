@@ -21,10 +21,10 @@ tags:
 
 Angesichts der aktuellen intensiven Debatten über Rentenreformen fasse ich hier zentrale Punkte zur geschlechtsspezifischen Rentenlücke zusammen, die bei den Reformbemühungen mitbedacht werden sollten. Ich erläutere die grundsätzliche Bedeutung von Geschlechterungleichheiten bei der Rente ebenso wie ihre Relevanz für künftige Generationen und diskutiere ausgewählte Ergebnisse meiner Forschung, die dazu beitragen können, Ungleichheiten im Alter zu verringern.  
 
-Die zentralen Ergebnisse meiner Dissertation fasse ich auch in diesem Video zusammen, das anlässlich des [FNA-Forschungspreises 2025](https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold) der Deutschen Rentenversicherung entstanden ist:
+Für meine Dissertation wurde mir der [FNA-Forschungspreis 2025](https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold) der Deutschen Rentenversicherung verliehen – hier ein kurzes Video dazu:
 
 <div class="video-wrap">
-  <video controls preload="metadata" playsinline>
+  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
     <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
     Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
   </video>
