@@ -3,9 +3,9 @@
 # Used by: /publications/ page, "Recent publications" on the home page,
 # and the link rows on the research project pages.
 #
-# Fields per entry (all optional except authors, year, title):
+# Fields per entry (all optional except authors and title):
 #   id          short key, used to reference the entry from project pages
-#   authors     author list; "Rowold, C." is printed in bold automatically
+#   authors     author list ending with a full stop; "Rowold, C." is printed in bold
 #   year        publication year (or status such as "Online first")
 #   title       title of the paper
 #   venue       journal / book / outlet (printed in italics)
@@ -89,7 +89,7 @@ book_chapters:
     year: 2023
     title: "Cohort change in family life course complexity of adults and children"
     venue: "The Demography of Transforming Families"
-    details: "In R. Schoen (Ed.), The Springer Series on Demographic Methods and Population Analysis (pp. 203–225). Springer"
+    details: "edited by R. Schoen, pp. 203–225. Springer"
     doi: "10.1007/978-3-031-29666-6_10"
     paper: "https://link.springer.com/chapter/10.1007/978-3-031-29666-6_10"
     project: "/projects/familycomplexity/#springer2023"

@@ -87,11 +87,12 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kde4K-kAAAAJ&hl=de&oi=ao"
-  email            : "c.rowold[at]hertie-school.org"
+  email            : "c.rowold@hertie-school.org"
   researchgate     :  "https://www.researchgate.net/profile/Carla-Rowold" 
   uri              :
   bitbucket        :
   bluesky          : "https://bsky.app/profile/crowold.bsky.social"
+  bluesky_did      : "did:plc:ez3r6s7qrwyqy3hgmimb4sc2" # needed for embedding Bluesky posts
   codepen          :
   dribbble         :
   flickr           :

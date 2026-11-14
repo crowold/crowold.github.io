@@ -2,7 +2,7 @@
   Embeds a Bluesky post. If the embed cannot load, a normal quote with a link is shown instead.
   Usage: {% include bsky-embed.html url="https://bsky.app/profile/crowold.bsky.social/post/3lycxgzxy4k2k" text="Short teaser text" %}
   Optional: did="did:plc:..." (more robust than the handle)
-{% endcomment %}{% assign _parts = include.url | split: "/" %}{% assign _handle = _parts[4] %}{% assign _rkey = _parts[6] %}{% if include.did %}{% assign _actor = include.did %}{% else %}{% assign _actor = _handle %}{% endif %}
+{% endcomment %}{% assign _parts = include.url | split: "/" %}{% assign _handle = _parts[4] %}{% assign _rkey = _parts[6] %}{% if include.did %}{% assign _actor = include.did %}{% elsif site.author.bluesky_did and _handle == "crowold.bsky.social" %}{% assign _actor = site.author.bluesky_did %}{% else %}{% assign _actor = _handle %}{% endif %}
 <div class="bsky-wrap">
 <blockquote class="bluesky-embed" data-bluesky-uri="at://{{ _actor }}/app.bsky.feed.post/{{ _rkey }}" data-bluesky-embed-color-mode="system"><p lang="en">{{ include.text | default: "Summary thread on Bluesky" }}</p>&mdash; Carla Rowold (@{{ _handle }}) <a href="{{ include.url }}">Read the thread on Bluesky 🦋</a></blockquote>
 </div>

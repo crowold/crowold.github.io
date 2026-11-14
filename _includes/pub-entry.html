@@ -3,7 +3,7 @@
 {% endcomment %}{% assign p = include.pub %}{% assign _authors = p.authors | replace: "Rowold, C.", "<strong>Rowold, C.</strong>" %}
 <li class="pub-entry" id="pub-{{ p.id }}">
   {% if include.num %}<span class="pub-num">({{ include.num }})</span>{% endif %}
-  <span class="pub-text">{{ _authors }}{% if p.year %} ({{ p.year }}){% endif %}.
+  <span class="pub-text">{{ _authors }}{% if p.year %} ({{ p.year }}).{% endif %}
     {% if p.project %}<a class="pub-title" href="{{ p.project | relative_url }}">{{ p.title }}</a>{% else %}<span class="pub-title">{{ p.title }}</span>{% endif %}.
     {% if p.venue %}<em>{{ p.venue }}</em>{% if p.details %}, {{ p.details }}{% endif %}.{% elsif p.details %}{{ p.details }}.{% endif %}
     {% if p.status %}<em>{{ p.status }}</em>.{% endif %}
