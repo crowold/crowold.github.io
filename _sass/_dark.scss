@@ -90,6 +90,11 @@ html[data-theme="dark"] {
   .pub-list a.pub-title:hover { color: $dm-link-hover; border-bottom-color: $dm-link-hover; }
   .home-hero__links a { border-color: $dm-border; color: $dm-text; }
   .post-toc, .footnotes-block { border-color: $dm-border; }
+  .post-card { border-color: $dm-border; background: $dm-bg-raised; }
+  .post-card:hover { border-color: $dm-muted; box-shadow: none; }
+  .post-card__meta, .posts-intro { color: $dm-muted; }
+  .post-card__lang { border-color: $dm-muted; }
+  .post-card img { background-color: transparent; }
   .key-points { background: rgba($dm-link, 0.08); border-left-color: $dm-link; }
   .home-hero__links a:hover { border-color: $dm-muted; color: $dm-text-strong; }
 

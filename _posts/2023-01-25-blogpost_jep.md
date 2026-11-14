@@ -1,6 +1,8 @@
 ---
-title: 'Missing data in the SHARE Job Episodes Panel: A potential cause and solution
-'
+title: 'Missing data in the SHARE Job Episodes Panel: A potential cause and solution'
+lang_label: EN
+teaser_img: /images/teasers/jep.jpg
+summary: "The situation variable in the SHARE Job Episodes Panel has sizeable, strongly gendered missingness – largely hidden spells of unpaid care work after the last job. I show where it comes from and share code to fill most of the gaps."
 date: 2023-01-25
 permalink: /posts/2023/01/blogpost_jep/
 tags:

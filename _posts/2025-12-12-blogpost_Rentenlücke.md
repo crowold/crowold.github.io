@@ -2,6 +2,9 @@
 title: 'Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten'
 date: 2025-12-12
 read_time: false
+lang_label: DE
+teaser_img: /images/teasers/rentenluecke.jpg
+summary: "Warum Frauen in Westdeutschland im Schnitt 61 % weniger eigene Rente erhalten, welche Rolle unbezahlte Sorgearbeit und die Privatisierung der Altersvorsorge dabei spielen – und was Rentenreformen deshalb mitbedenken sollten. Mit Video zum FNA-Forschungspreis."
 permalink: /posts/2025/12/rentenluecke/
 redirect_from:
   - /posts/2025/12/blogpost_Rentenlücke/

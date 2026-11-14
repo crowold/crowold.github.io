@@ -1,0 +1,26 @@
+---
+layout: single
+permalink: /posts/
+title: "Blog posts"
+author_profile: true
+---
+<p class="posts-intro">Longer pieces on my research for a wider audience – some in German, some in English.</p>
+
+<div class="post-cards">
+{% for post in site.posts %}
+  <article class="post-card">
+    <a class="post-card__img" href="{{ post.url | relative_url }}" tabindex="-1" aria-hidden="true">
+      {% if post.teaser_img %}<img src="{{ post.teaser_img | relative_url }}" alt="" loading="lazy">{% endif %}
+    </a>
+    <div class="post-card__body">
+      <p class="post-card__meta">
+        {% if post.lang_label %}<span class="post-card__lang">{{ post.lang_label }}</span>{% endif %}
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y" }}</time>
+      </p>
+      <h2 class="post-card__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      {% if post.summary %}<p class="post-card__summary">{{ post.summary }}</p>{% endif %}
+      <a class="post-card__more" href="{{ post.url | relative_url }}">{% if post.lang_label == "DE" %}Weiterlesen{% else %}Read more{% endif %} →</a>
+    </div>
+  </article>
+{% endfor %}
+</div>
