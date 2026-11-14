@@ -33,6 +33,9 @@ peer_reviewed:
     details: "103445"
     doi: "10.1016/j.ssresearch.2026.103445"
     wp: "https://doi.org/10.31235/osf.io/g4d2b_v1"
+    code: "https://osf.io/4wbdy"
+    bluesky: "https://bsky.app/profile/crowold.bsky.social/post/3mxoqrhezlk2h"
+    linkedin: "https://lnkd.in/p/dPmrsm-x"
     project: "/projects/familycomplexity/#ssr2026"
 
   - id: wes2026
@@ -43,6 +46,9 @@ peer_reviewed:
     details: "Online first"
     doi: "10.1177/09500170261482093"
     wp: "https://osf.io/preprints/socarxiv/czn74"
+    code: "https://osf.io/6s9ed"
+    bluesky: "https://bsky.app/profile/crowold.bsky.social/post/3n27btjmmcc2j"
+    linkedin: "https://lnkd.in/p/dBBAHwjK"
     blog: "/posts/2025/12/blogpost_Rentenlücke/"
     project: "/projects/genderpensiongap/#wes2026"
 
@@ -54,6 +60,7 @@ peer_reviewed:
     details: "104(4), 1337–1362"
     doi: "10.1093/sf/soaf143"
     wp: "https://osf.io/preprints/socarxiv/fbq92"
+    code: "https://osf.io/nftsw/"
     bluesky: "https://bsky.app/profile/crowold.bsky.social/post/3lycxgzxy4k2k"
     video: "https://www.youtube.com/watch?v=tQ9MEWkMWvs"
     project: "/projects/genderpensiongap/#sf2026"

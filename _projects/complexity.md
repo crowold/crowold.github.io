@@ -40,6 +40,8 @@ Published
 
 {% include pub-links.html id="ssr2026" hide_project=true %}
 
+{% include bsky-embed.html url="https://bsky.app/profile/crowold.bsky.social/post/3mxoqrhezlk2h" text="Key takeaways of the Social Science Research paper “Does it matter how we measure family complexity?” 🧵" %}
+
 </div>
 
 <div class="project-paper" id="springer2023" markdown="1">

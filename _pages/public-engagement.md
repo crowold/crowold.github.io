@@ -11,16 +11,6 @@ redirect_from:
 *Hier sammle ich Beiträge für Politik, Praxis und eine breitere Öffentlichkeit – überwiegend auf Deutsch.*
 *This page collects contributions for policy, practice and a wider audience – mostly in German.*
 
-## Video: FNA-Forschungspreis 2025
-
-<div class="video-wrap">
-  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
-    <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
-    Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
-  </video>
-  <p class="video-caption">Video zur Verleihung des <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA-Forschungspreises 2025</a> der Deutschen Rentenversicherung.</p>
-</div>
-
 ## Zusammenfassungen meiner Forschung
 
 <ul class="engagement-list">
@@ -38,14 +28,13 @@ redirect_from:
   <li><span class="when">2025</span><span>Hintergrunddaten und Einordnung für den Artikel <a href="https://www.focus.de/finanzen/die-teilzeit-falle-warum-viele-frauen-bis-zur-rente-nicht-mehr-rauskommen_59dbd0d2-af3e-43a6-9ce9-671125f5889e.html">„Die Teilzeit-Falle“</a>, <em>FOCUS online</em>.</span></li>
 </ul>
 
-## Vorträge und Weiterbildung für Politik und Praxis
-
-<ul class="engagement-list">
-  <li><span class="when">2026</span><span>Eintägiger Kurs zur Sequenzanalyse für Analyst*innen und Praktiker*innen der Deutschen Rentenversicherung, Forschungsnetzwerk Alterssicherung (FNA), Berlin.</span></li>
-  <li><span class="when">2025</span><span>Rede bei der Preisverleihung auf der Bundesvertreterversammlung der Deutschen Rentenversicherung: zentrale Ergebnisse und sozialpolitische Konsequenzen meiner Dissertation.</span></li>
-  <li><span class="when">2022</span><span>„Gender Pension Gaps in Europa: Assoziationen von Arbeitsmarktungleichheiten, Rentensystemen und geschlechtsspezifischen Lebensverläufen mit der Rentenlücke zwischen Männern und Frauen“. Fachtagung <em>Alterssicherung im internationalen Vergleich und europäische Sozialpolitik</em>, Deutsche Rentenversicherung, Erkner.</span></li>
-  <li><span class="when">2022</span><span>„Unterschiedlich stark ausgeprägte geschlechtsspezifische Rentenlücken in gesetzlichen und privaten Renten: Welche Rolle spielen Arbeits- und Familienlebensverläufe?“. FNA-Graduiertenkolloquium, Deutsche Rentenversicherung (online).</span></li>
-</ul>
+<div class="video-wrap">
+  <video controls preload="metadata" playsinline poster="/files/videos/final_fna_rowold_poster.jpg">
+    <source src="/files/videos/final_fna_rowold.mp4" type="video/mp4">
+    Ihr Browser kann das Video nicht abspielen. <a href="/files/videos/final_fna_rowold.mp4">Video herunterladen</a>.
+  </video>
+  <p class="video-caption">Video zur Verleihung des <a href="https://www.fna-rv.de/DE/Inhalt/02_Foerderungen/02-3_Der_FNA-Forschungspreis/Preistraegerinnen-Preistraeger/Einzelvorstellung/2025_Rowold">FNA-Forschungspreises 2025</a> der Deutschen Rentenversicherung.</p>
+</div>
 
 ## Berichte für Politik und Praxis
 

@@ -55,6 +55,8 @@ Published
 
 {% include pub-links.html id="wes2026" hide_project=true %}
 
+{% include bsky-embed.html url="https://bsky.app/profile/crowold.bsky.social/post/3n27btjmmcc2j" text="Key takeaways of the Work, Employment and Society paper on public and private Gender Pension Gaps 🧵" %}
+
 </div>
 
 <div class="project-paper" id="sf2026" markdown="1">
