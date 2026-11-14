@@ -1,0 +1,161 @@
+# ------------------------------------------------------------------
+# Single source for all publications on the website.
+# Used by: /publications/ page, "Recent publications" on the home page,
+# and the link rows on the research project pages.
+#
+# Fields per entry (all optional except authors, year, title):
+#   id          short key, used to reference the entry from project pages
+#   authors     author list; "Rowold, C." is printed in bold automatically
+#   year        publication year (or status such as "Online first")
+#   title       title of the paper
+#   venue       journal / book / outlet (printed in italics)
+#   details     volume, issue, pages etc.
+#   status      e.g. "Revise & Resubmit at Feminist Economics"
+#   doi         DOI without https://doi.org/
+#   paper       link to the published version (if not the DOI)
+#   wp          link to working paper / preprint
+#   code        link to replication code
+#   bluesky     link to Bluesky summary thread
+#   linkedin    link to LinkedIn summary post
+#   video       link to a video / recorded presentation
+#   blog        link to a (German) blog post about the paper
+#   pdf         self-hosted PDF
+#   summary_de  German summary (PDF)
+#   project     URL of the research project page (+ anchor)
+# ------------------------------------------------------------------
+
+peer_reviewed:
+  - id: ssr2026
+    authors: "Rowold, C., Gädecke, M., & Van Winkle, Z."
+    year: 2026
+    title: "Does it matter how we measure family complexity? Sequence-based indices and children’s educational outcomes"
+    venue: "Social Science Research"
+    details: "103445"
+    doi: "10.1016/j.ssresearch.2026.103445"
+    wp: "https://doi.org/10.31235/osf.io/g4d2b_v1"
+    project: "/projects/familycomplexity/#ssr2026"
+
+  - id: wes2026
+    authors: "Rowold, C."
+    year: 2026
+    title: "Differences in Gender Pension Gaps in public and private pensions in West Germany: An analysis sensitive to interdependencies across the life course"
+    venue: "Work, Employment and Society"
+    details: "Online first"
+    doi: "10.1177/09500170261482093"
+    wp: "https://osf.io/preprints/socarxiv/czn74"
+    blog: "/posts/2025/12/blogpost_Rentenlücke/"
+    project: "/projects/genderpensiongap/#wes2026"
+
+  - id: sf2026
+    authors: "Rowold, C."
+    year: 2026
+    title: "Full-time employment is all that matters? Quantifying the role of relevant and gender-exclusive life-course experiences for gender pension gaps"
+    venue: "Social Forces"
+    details: "104(4), 1337–1362"
+    doi: "10.1093/sf/soaf143"
+    wp: "https://osf.io/preprints/socarxiv/fbq92"
+    bluesky: "https://bsky.app/profile/crowold.bsky.social/post/3lycxgzxy4k2k"
+    video: "https://www.youtube.com/watch?v=tQ9MEWkMWvs"
+    project: "/projects/genderpensiongap/#sf2026"
+
+  - id: demres2025
+    authors: "Kapelle, N., & Rowold, C."
+    year: 2025
+    title: "Uncovering what matters: Family life-course aspects and personal wealth in late working age"
+    venue: "Demographic Research"
+    details: "52, 689–740"
+    doi: "10.4054/DemRes.2025.52.22"
+    paper: "https://www.demographic-research.org/articles/volume/52/22"
+    wp: "https://osf.io/preprints/socarxiv/pucvt"
+    code: "https://osf.io/b9ya6/"
+    bluesky: "https://bsky.app/profile/crowold.bsky.social/post/3lpbxr3leok2n"
+    project: "/projects/wealthinequalities/#demres2025"
+
+  - id: smr2025
+    authors: "Rowold, C., Struffolino, E., & Fasang, A. E."
+    year: 2025
+    title: "Life-course-sensitive analysis of group inequalities: Combining sequence analysis with the Kitagawa–Oaxaca–Blinder decomposition"
+    venue: "Sociological Methods & Research"
+    details: "54(2), 646–705"
+    doi: "10.1177/00491241231224226"
+    wp: "https://osf.io/preprints/socarxiv/7k4vt/"
+    code: "https://osf.io/ke3mg/"
+    video: "https://www.youtube.com/watch?v=tQ9MEWkMWvs"
+    project: "/projects/genderpensiongap/#smr2025"
+
+book_chapters:
+  - id: springer2023
+    authors: "Rowold, C., & Van Winkle, Z."
+    year: 2023
+    title: "Cohort change in family life course complexity of adults and children"
+    venue: "The Demography of Transforming Families"
+    details: "In R. Schoen (Ed.), The Springer Series on Demographic Methods and Population Analysis (pp. 203–225). Springer"
+    doi: "10.1007/978-3-031-29666-6_10"
+    paper: "https://link.springer.com/chapter/10.1007/978-3-031-29666-6_10"
+    project: "/projects/familycomplexity/#springer2023"
+
+working_papers:
+  - id: jesp
+    authors: "Overweg, C., Rowold, C., & Fasang, A. E."
+    title: "Earning, deriving, or depending? Women’s life courses and pathways to financial security in later life in West Germany and the Netherlands"
+    status: "Conditionally accepted at Journal of European Social Policy"
+    project: "/projects/genderpensiongap/#jesp"
+
+  - id: gwg
+    authors: "Rowold, C., & Kapelle, N."
+    title: "Decomposing the Gender Wealth Gap in late working age: A novel life course analysis of family and work characteristics in Western Germany"
+    status: "Revise & Resubmit at Feminist Economics"
+    wp: "https://osf.io/9hk5w"
+    project: "/projects/wealthinequalities/#gwg"
+
+  - id: housewives
+    authors: "Rowold, C."
+    title: "Housewives never retire!? Gender biases in popular sample definitions for studies on the elderly"
+    status: "Under review at Ageing & Society"
+    wp: "https://osf.io/preprints/socarxiv/4kq5e"
+    project: "/projects/retirementmeasure/#housewives"
+
+dissertation:
+  - id: diss
+    authors: "Rowold, C."
+    year: 2023
+    title: "An accumulation of gender inequalities in old age? Exploring life course- and gender-sensitive approaches for analysing Gender Pension Gaps"
+    details: "Doctoral dissertation, University of Oxford"
+    doi: "10.5287/ora-nrdgbeegq"
+    paper: "https://ora.ox.ac.uk/objects/uuid:74763cc3-e58c-4581-abe3-ce542e8774fd"
+    summary_de: "/files/Rowold_2024_Gender_Pension_Gaps_Zusammenfassung.pdf"
+    awards: "FNA-Forschungspreis 2025 (Deutsche Rentenversicherung) · DGD Young Scientist Award 2026 · Final nominee Netspar Thesis Award 2024"
+    project: "/projects/genderpensiongap/#dissertation"
+
+other:
+  - id: drv2022
+    authors: "Rowold, C."
+    year: 2022
+    title: "Der Zusammenhang von Familien- und Arbeitsbiografien und Rentensystemen mit dem Gender-Pension-Gap – geschlechtsspezifische Rentenlücken in Europa aus der Lebensverlaufsperspektive"
+    venue: "Deutsche Rentenversicherung"
+    details: "2/2022, 131–161"
+    paper: "https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Zeitschriften/DRV_Hefte_deutsch/2022/inhaltszusammenfassung_heft_2.pdf?__blob=publicationFile&v=4"
+
+  - id: diw2019b
+    authors: "Hammerschmid, A., & Rowold, C."
+    year: 2019
+    title: "Gender pension gaps in Europe are more explicitly associated with labor markets than with pension systems"
+    venue: "DIW Weekly Report"
+    details: "9(25), 203–211"
+    paper: "https://www.diw.de/documents/publikationen/73/diw_01.c.630610.de/dwr-19-25-1.pdf"
+
+  - id: diw2019a
+    authors: "Hammerschmid, A., & Rowold, C."
+    year: 2019
+    title: "Gender pension gaps — a problem in many European countries"
+    venue: "DIW Weekly Report"
+    details: "9(16/18), 156–157"
+    paper: "https://www.diw.de/documents/publikationen/73/diw_01.c.620441.de/dwr-19-16-3.pdf"
+
+  - id: diw2017
+    authors: "Haan, P., Hammerschmid, A., & Rowold, C."
+    year: 2017
+    title: "Gender gaps in pensions and health: Germany, France, and Denmark"
+    venue: "DIW Economic Bulletin"
+    details: "7(43), 436–442"
+    paper: "https://www.diw.de/documents/publikationen/73/diw_01.c.567701.de/diw_econ_bull_2017-43-3.pdf"

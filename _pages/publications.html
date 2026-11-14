@@ -1,0 +1,46 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /publication/2010-10-01-paper-gendercoveragegap
+  - /publication/2017-10-01-gaps-pension-health
+  - /publication/2019-06-paper-GPG-DIW
+  - /publication/2022-06-GPGEurope
+  - /publication/2023-08-familycomplexityUK
+  - /publication/2023-12-dissertation
+  - /publication/2022-04-MSA+KOB
+  - /publication/2025-01-familywealth
+  - /publication/2025-02-fulltimeallthatmatters
+  - /talks/
+---
+{% assign pubs = site.data.publications %}
+<p>Click on a title to go to the research project page with the abstract, summaries and further material. If you have problems accessing any of these publications, please <a href="mailto:c.rowold@hertie-school.org">get in touch</a>. You can also find my work on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
+
+<h2>Peer-reviewed journal articles</h2>
+<ol class="pub-list">
+{% for p in pubs.peer_reviewed %}{% include pub-entry.html pub=p num=forloop.rindex %}{% endfor %}
+</ol>
+
+<h2>Book chapters</h2>
+<ol class="pub-list">
+{% for p in pubs.book_chapters %}{% include pub-entry.html pub=p num=forloop.rindex %}{% endfor %}
+</ol>
+
+<h2>Working papers and manuscripts under review</h2>
+<ol class="pub-list">
+{% for p in pubs.working_papers %}{% include pub-entry.html pub=p %}{% endfor %}
+</ol>
+
+<h2>Dissertation</h2>
+<ol class="pub-list">
+{% for p in pubs.dissertation %}{% include pub-entry.html pub=p %}{% endfor %}
+</ol>
+
+<h2>Reports and other publications</h2>
+<ol class="pub-list">
+{% for p in pubs.other %}{% include pub-entry.html pub=p %}{% endfor %}
+</ol>
+
+<p>More (mostly German-language) contributions for a wider audience, such as media coverage, op-eds and blog posts, are collected under <a href="{{ "/public-engagement/" | relative_url }}">Public Engagement</a>.</p>
