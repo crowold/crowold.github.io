@@ -2,7 +2,9 @@
 title: 'Rentenreformen sind nötig – Geschlechterungleichheiten dürfen aber nicht aus dem Blick geraten'
 date: 2025-12-12
 read_time: false
-permalink: /posts/2025/12/blogpost_Rentenlücke/
+permalink: /posts/2025/12/rentenluecke/
+redirect_from:
+  - /posts/2025/12/blogpost_Rentenlücke/
 tags:
   - Rentenlücke
   - Gender Pension Gap

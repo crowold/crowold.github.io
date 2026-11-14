@@ -21,6 +21,7 @@
 #   blog        link to a (German) blog post about the paper
 #   pdf         self-hosted PDF
 #   summary_de  German summary (PDF)
+#   german      German-language version of the publication
 #   project     URL of the research project page (+ anchor)
 # ------------------------------------------------------------------
 
@@ -150,6 +151,7 @@ other:
     venue: "DIW Weekly Report"
     details: "9(25), 203–211"
     paper: "https://www.diw.de/documents/publikationen/73/diw_01.c.630610.de/dwr-19-25-1.pdf"
+    german: "https://www.diw.de/de/diw_01.c.630531.de/publikationen/wochenberichte/2019_25_1/gender_pension_gaps_in_europa_haengen_eindeutiger_mit_arbeitsmaerkten_als_mit_rentensystemen_zusammen.html"
 
   - id: diw2019a
     authors: "Hammerschmid, A., & Rowold, C."
@@ -158,6 +160,7 @@ other:
     venue: "DIW Weekly Report"
     details: "9(16/18), 156–157"
     paper: "https://www.diw.de/documents/publikationen/73/diw_01.c.620441.de/dwr-19-16-3.pdf"
+    german: "https://www.diw.de/de/diw_01.c.620380.de/publikationen/wochenberichte/2019_18_3/stabiles_und_soziales_europa__fiskalregeln__stabilisierungsf___regeln__gender_quote__gender_pension_gaps__bildung__berichte.html"
 
   - id: diw2017
     authors: "Haan, P., Hammerschmid, A., & Rowold, C."
@@ -166,3 +169,4 @@ other:
     venue: "DIW Economic Bulletin"
     details: "7(43), 436–442"
     paper: "https://www.diw.de/documents/publikationen/73/diw_01.c.567701.de/diw_econ_bull_2017-43-3.pdf"
+    german: "https://www.diw.de/de/diw_01.c.567570.de/publikationen/wochenberichte/2017_43_4/geschlechtsspezifische_renten-_und_gesundheitsunterschiede_in_deutschland__frankreich_und_daenemark.html"
