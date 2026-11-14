@@ -75,7 +75,7 @@ Published
 
 The video link leads to a recorded presentation of the paper (from minute 55:45).
 
-<img src="/files/goldgirls_housewives_never_retire.png" alt="Meme on the Social Forces paper" style="display:block; margin:1.5em auto; max-width:420px; width:100%;">
+<img src="/files/meme_FTallthatmatters.png" alt="Meme: The lack of full-time employment is the main reason for my low pension, they said… But it turns out it’s actually the unrewarded & unpaid care work I did for our family, Herbert!" style="display:block; margin:1.5em auto; max-width:460px; width:100%; border-radius:4px;">
 
 {% include bsky-embed.html url="https://bsky.app/profile/crowold.bsky.social/post/3lycxgzxy4k2k" text="Key takeaways of the Social Forces paper “Full-time employment is all that matters?” 🧵" %}
 
